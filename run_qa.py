@@ -1,6 +1,12 @@
 """
-This module provides functions to prepare and process text documents, perform document search,
+Language Model-based Question Answering System
+
+This script provides functions to prepare and process text documents, perform document search,
 prepare language models, and generate answers based on the documents and a given query.
+
+Author: Mohammad Zarei
+Date: 2023-04-17
+
 """
 
 # imports
