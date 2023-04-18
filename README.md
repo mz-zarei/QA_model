@@ -22,7 +22,7 @@ To install the dependencies, you can use the following command:
 This module provides a command-line interface to retrieve answers to queries over text documents. You can use the following command to run the code:
 
 
-`!python main.py --query-path query.txt --text-path texts.txt --model-id google/flan-t5-xl --k 2 --chunk-size 64 --chunk-overlap 0`
+`!python run_qa.py --query-path query.txt --text-path texts.txt --model-id google/flan-t5-xl --k 2 --chunk-size 64 --chunk-overlap 0`
 
 ## Arguments
 The following arguments can be used to customize the behavior of the code:
