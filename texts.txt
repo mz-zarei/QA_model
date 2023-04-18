@@ -1,0 +1,705 @@
+Main menu
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Create account
+Log in
+
+Personal tools
+Contents hide
+(Top)
+Ancient history
+Toggle Ancient history subsection
+Medieval alchemy
+Toggle Medieval alchemy subsection
+17th and 18th centuries: Early chemistry
+Toggle 17th and 18th centuries: Early chemistry subsection
+19th century
+Toggle 19th century subsection
+20th century
+Toggle 20th century subsection
+Mathematics and chemistry
+Scope of chemistry
+Toggle Scope of chemistry subsection
+See also
+Toggle See also subsection
+Notes
+References
+Further reading
+External links
+History of chemistry
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+Further information: Chemistry and Timeline of chemistry
+Part of a series on
+Chemistry
+Gnome-applications-science.svg
+Science of matter
+IndexOutlineGlossary
+History (timeline)
+Key components
+Branches
+Research
+ Chemistry portal Category
+vte
+
+The 1871 periodic table constructed by Dmitri Mendeleev. The periodic table is one of the most potent icons in science, lying at the core of chemistry and embodying the most fundamental principles of the field.
+The history of chemistry represents a time span from ancient history to the present. By 1000 BC, civilizations used technologies that would eventually form the basis of the various branches of chemistry. Examples include the discovery of fire, extracting metals from ores, making pottery and glazes, fermenting beer and wine, extracting chemicals from plants for medicine and perfume, rendering fat into soap, making glass, and making alloys like bronze.
+
+The protoscience of chemistry, alchemy, was unsuccessful in explaining the nature of matter and its transformations. However, by performing experiments and recording the results, alchemists set the stage for modern chemistry. While both alchemy and chemistry are concerned with matter and its transformations, chemists are seen as applying scientific method to their work.
+
+The history of chemistry is intertwined with the history of thermodynamics, especially through the work of Willard Gibbs.[1]
+
+Ancient history
+Early humans
+A 100,000-year-old ochre-processing workshop was found at Blombos Cave in South Africa. It indicates that early humans had an elementary knowledge of chemistry. Paintings drawn by early humans consisting of early humans mixing animal blood with other liquids found on cave walls also indicate a small knowledge of chemistry.[2][3]
+
+Early metallurgy
+Main articles: Ferrous metallurgy and History of metallurgy in the Indian subcontinent
+The earliest recorded metal employed by humans seems to be gold, which can be found free or "native". Small amounts of natural gold have been found in Spanish caves used during the late Paleolithic period, around 40,000 BC.[4]
+
+Silver, copper, tin and meteoric iron can also be found native, allowing a limited amount of metalworking in ancient cultures.[5] Egyptian weapons made from meteoric iron in about 3000 BC were highly prized as "daggers from Heaven".[6]
+
+Arguably the first chemical reaction used in a controlled manner was fire. However, for millennia fire was seen simply as a mystical force that could transform one substance into another (burning wood, or boiling water) while producing heat and light. Fire affected many aspects of early societies. These ranged from the simplest facets of everyday life, such as cooking and habitat heating and lighting, to more advanced uses, such as making pottery and bricks and melting of metals to make tools.
+
+It was fire that led to the discovery of glass and the purification of metals; this was followed by the rise of metallurgy.[7] During the early stages of metallurgy, methods of purification of metals were sought, and gold, known in ancient Egypt as early as 2900 BC, became a precious metal.
+
+Bronze Age
+Main article: Bronze Age
+Certain metals can be recovered from their ores by simply heating the rocks in a fire: notably tin, lead and (at a higher temperature) copper. This process is known as smelting. The first evidence of this extractive metallurgy dates from the 6th and 5th millennia BC, and was found in the archaeological sites of the Vinča culture, Majdanpek, Jarmovac and Pločnik in Serbia.[8] To date, the earliest copper smelting is found at the Belovode site;[9] these examples include a copper axe from 5500 BC.[10] Other signs of early metals are found from the third millennium BC in places like Palmela (Portugal), Los Millares (Spain), and Stonehenge (United Kingdom). However, as often happens in the study of prehistoric times, the ultimate beginnings cannot be clearly defined and new discoveries are ongoing.
+
+
+Mining areas of the ancient Middle East. Boxes colors: arsenic is in brown, copper in red, tin in grey, iron in reddish-brown, gold in yellow, silver in white and lead in black. Yellow area stands for arsenic bronze, while grey area stands for tin bronze.
+These first metals were single elements, or else combinations as naturally occurred. By combining copper and tin, a superior metal could be made, an alloy called bronze. This was a major technological shift that began the Bronze Age about 3500 BC. The Bronze Age was a period in human cultural development when the most advanced metalworking (at least in systematic and widespread use) included techniques for smelting copper and tin from naturally occurring outcroppings of copper ores, and then smelting those ores to cast bronze. These naturally occurring ores typically included arsenic as a common impurity. Copper/tin ores are rare, as reflected in the absence of tin bronzes in western Asia before 3000 BC.
+
+After the Bronze Age, the history of metallurgy was marked by armies seeking better weaponry. States in Eurasia prospered when they made the superior alloys, which, in turn, made better armor and better weapons.[citation needed] Significant progress in metallurgy and alchemy was made in ancient India.[11]
+
+Iron Age
+Main article: Iron Age
+The extraction of iron from its ore into a workable metal is much more difficult than copper or tin. While iron is not better suited for tools than bronze (until steel was discovered), iron ore is much more abundant and common than either copper or tin, and therefore more often available locally, with no need to trade for it.
+
+Iron working appears to have been invented by the Hittites in about 1200 BC, beginning the Iron Age. The secret of extracting and working iron was a key factor in the success of the Philistines.[6][12]
+
+The Iron Age refers to the advent of iron working (ferrous metallurgy). Historical developments in ferrous metallurgy can be found in a wide variety of past cultures and civilizations. These include the ancient and medieval kingdoms and empires of the Middle East and Near East, ancient Iran, ancient Egypt, ancient Nubia, and Anatolia (Turkey), Ancient Nok, Carthage, the Greeks and Romans of ancient Europe, medieval Europe, ancient and medieval China, ancient and medieval India, ancient and medieval Japan, amongst others. Many applications, practices, and devices associated with or involved in metallurgy were established in ancient China, such as the innovation of the blast furnace, cast iron, hydraulic-powered trip hammers, and double-acting piston bellows.[13][14]
+
+Classical antiquity and atomism
+Main article: Atomism
+
+Democritus, Greek philosopher and ancient atomist.
+Philosophical attempts to rationalize why different substances have different properties (color, density, smell), exist in different states (gaseous, liquid, and solid), and react in a different manner when exposed to environments, for example to water or fire or temperature changes, led ancient philosophers to postulate the first theories on nature and chemistry. The history of such philosophical theories that relate to chemistry can probably be traced back to every single ancient civilization. The common aspect in all these theories was the attempt to identify a small number of primary classical elements that make up all the various substances in nature. Substances like air, water, and soil/earth, energy forms, such as fire and light, and more abstract concepts such as thoughts, aether, and heaven, were common in ancient civilizations even in the absence of any cross-fertilization: for example ancient Greek, Indian, Mayan, and Chinese philosophies all considered air, water, earth and fire as primary elements.[citation needed]
+
+Ancient world
+Around 420 BC, Empedocles stated that all matter is made up of four elemental substances: earth, fire, air and water. The early theory of atomism can be traced back to ancient Greece and ancient India.[15] Greek atomism was made popular by the Greek philosopher Democritus, who declared that matter is composed of indivisible and indestructible particles called "atomos" around 380 BC. Earlier, Leucippus also declared that atoms were the most indivisible part of matter. This coincided with a similar declaration by the Indian philosopher Kanada in his Vaisheshika sutras around the same time period.[15] Aristotle opposed the existence of atoms in 330 BC. A Greek text attributed to Polybus the physician (ca. 380 BC) argued that the human body is composed of four humours instead. Epicurus (fl. 300 BC) postulated a universe of indestructible atoms in which man himself is responsible for achieving a balanced life.
+
+With the goal of explaining Epicurean philosophy to a Roman audience, the Roman poet and philosopher Lucretius[16] wrote De rerum natura (The Nature of Things)[17] in 50 BC. In the work, Lucretius presents the principles of atomism; the nature of the mind and soul; explanations of sensation and thought; the development of the world and its phenomena; and explains a variety of celestial and terrestrial phenomena.
+
+The earliest alchemists in the Western tradition seemed to have come from Greco-Roman Egypt in the first centuries AD. In addition to technical work, many of them invented chemical apparatuses. The bain-marie, or water bath, is named for Mary the Jewess. Her work also gives the first descriptions of the tribikos and kerotakis.[18] Cleopatra the Alchemist described furnaces and has been credited with the invention of the alembic.[19] Later, Zosimos of Panopolis wrote books on alchemy, which he called cheirokmeta, the Greek word for "things made by hand." These works include many references to recipes and procedures, as well as descriptions of instruments. Much of the early development of purification methods were described earlier by Pliny the Elder in his Naturalis Historia. He tried to explain those methods, as well as making acute observations of the state of many minerals.
+
+Medieval alchemy
+See also: Minima naturalia
+
+
+15th-century artistic impression of Jābir ibn Hayyān (Geber), a Perso-Arab alchemist and pioneer in organic chemistry.
+
+Seventeenth-century alchemical emblem showing the four Classical elements in the corners of the image, alongside the tria prima on the central triangle.
+The elemental system used in medieval alchemy was developed primarily by the Persian-Arab alchemist Jābir ibn Hayyān and was rooted in the classical elements of Greek tradition.[20] His system consisted of the four Aristotelian elements of air, earth, fire, and water in addition to two philosophical elements: sulphur, characterizing the principle of combustibility, "the stone which burns"; and mercury, characterizing the principle of metallic properties. They were seen by early alchemists as idealized expressions of irreducible components of the universe[21] and are of larger consideration[clarification needed] within philosophical alchemy.
+
+The three metallic principles (sulphur to flammability or combustion, mercury to volatility and stability, and salt to solidity) became the tria prima of the Swiss alchemist Paracelsus. He reasoned that Aristotle's four-element theory appeared in bodies as three principles. Paracelsus saw these principles as fundamental and justified them by recourse to the description of how wood burns in fire. Mercury included the cohesive principle, so that when it left the wood (in smoke) the wood fell apart. Smoke described the volatility (the mercurial principle), the heat-giving flames described flammability (sulphur), and the remnant ash described solidity (salt).[22]
+
+The philosopher's stone
+Main article: Alchemy
+
+"The Alchemist", by Sir William Douglas, 1855
+Alchemy is defined by the Hermetic quest for the philosopher's stone, the study of which is steeped in symbolic mysticism, and differs greatly from modern science. Alchemists toiled to make transformations on an esoteric (spiritual) and/or exoteric (practical) level.[23] It was the protoscientific, exoteric aspects of alchemy that contributed heavily to the evolution of chemistry in Greco-Roman Egypt, in the Islamic Golden Age, and then in Europe. Alchemy and chemistry share an interest in the composition and properties of matter, and until the 18th century they were not separate disciplines. The term chymistry has been used to describe the blend of alchemy and chemistry that existed before that time.[24]
+
+During the Renaissance, exoteric alchemy remained popular in the form of Paracelsian iatrochemistry, while spiritual alchemy flourished, realigned to its Platonic, Hermetic, and Gnostic roots. Consequently, the symbolic quest for the philosopher's stone was not superseded by scientific advances, and was still the domain of respected scientists and doctors until the early 18th century. Early modern alchemists who are renowned for their scientific contributions include Jan Baptist van Helmont, Robert Boyle, and Isaac Newton.
+
+Alchemy in the Islamic world
+Main article: Alchemy and chemistry in the medieval Islamic world
+In the Islamic World, the Muslims were translating the works of ancient Greek and Hellenistic philosophers into Arabic and were experimenting with scientific ideas.[25] The Arabic works attributed to the 8th-century alchemist Jābir ibn Hayyān introduced a systematic classification of chemical substances, and provided instructions for deriving an inorganic compound (sal ammoniac or ammonium chloride) from organic substances (such as plants, blood, and hair) by chemical means.[26] Some Arabic Jabirian works (e.g., the "Book of Mercy", and the "Book of Seventy") were later translated into Latin under the Latinized name "Geber",[27] and in 13th-century Europe an anonymous writer, usually referred to as pseudo-Geber, started to produce alchemical and metallurgical writings under this name.[28] Later influential Muslim philosophers, such as Abū al-Rayhān al-Bīrūnī[29] and Avicenna[30] disputed the theories of alchemy, particularly the theory of the transmutation of metals.
+
+Problems encountered with alchemy
+There were several problems with alchemy, as seen from today's standpoint. There was no systematic naming scheme for new compounds, and the language was esoteric and vague to the point that the terminologies meant different things to different people. In fact, according to The Fontana History of Chemistry (Brock, 1992):
+
+The language of alchemy soon developed an arcane and secretive technical vocabulary designed to conceal information from the uninitiated. To a large degree, this language is incomprehensible to us today, though it is apparent that readers of Geoffery Chaucer's Canon's Yeoman's Tale or audiences of Ben Jonson's The Alchemist were able to construe it sufficiently to laugh at it.[31]
+
+Chaucer's tale exposed the more fraudulent side of alchemy, especially the manufacture of counterfeit gold from cheap substances. Less than a century earlier, Dante Alighieri also demonstrated an awareness of this fraudulence, causing him to consign all alchemists to the Inferno in his writings. Soon afterwards, in 1317, the Avignon Pope John XXII ordered all alchemists to leave France for making counterfeit money. A law was passed in England in 1403 which made the "multiplication of metals" punishable by death. Despite these and other apparently extreme measures, alchemy did not die. Royalty and privileged classes still sought to discover the philosopher's stone and the elixir of life for themselves.[32]
+
+There was also no agreed-upon scientific method for making experiments reproducible. Indeed, many alchemists included in their methods irrelevant information such as the timing of the tides or the phases of the moon. The esoteric nature and codified vocabulary of alchemy appeared to be more useful in concealing the fact that they could not be sure of very much at all. As early as the 14th century, cracks seemed to grow in the facade of alchemy; and people became sceptical.[citation needed] Clearly, there needed to be a scientific method in which experiments could be repeated by other people, and results needed to be reported in a clear language that laid out both what was known and what was unknown.
+
+17th and 18th centuries: Early chemistry
+
+Agricola, author of De re metallica
+
+Workroom, from De re metallica, 1556, Chemical Heritage Foundation
+See also: Timeline of chemistry and Corpuscularianism
+Practical attempts to improve the refining of ores and their extraction to smelt metals was an important source of information for early chemists in the 16th century, among them Georg Agricola (1494–1555), who published his great work De re metallica in 1556. His work describes the highly developed and complex processes of mining metal ores, metal extraction and metallurgy of the time. His approach removed the mysticism associated with the subject, creating the practical base upon which others could build. The work describes the many kinds of furnace used to smelt ore, and stimulated interest in minerals and their composition. It is no coincidence that he gives numerous references to the earlier author, Pliny the Elder and his Naturalis Historia. Agricola has been described as the "father of metallurgy".[33]
+
+In 1605, Sir Francis Bacon published The Proficience and Advancement of Learning, which contains a description of what would later be known as the scientific method.[34] In 1605, Michal Sedziwój publishes the alchemical treatise A New Light of Alchemy which proposed the existence of the "food of life" within air, much later recognized as oxygen. In 1615 Jean Beguin published the Tyrocinium Chymicum, an early chemistry textbook, and in it draws the first-ever chemical equation.[35] In 1637 René Descartes publishes Discours de la méthode, which contains an outline of the scientific method.
+
+The Dutch chemist Jan Baptist van Helmont's work Ortus medicinae was published posthumously in 1648; the book is cited by some as a major transitional work between alchemy and chemistry, and as an important influence on Robert Boyle. The book contains the results of numerous experiments and establishes an early version of the law of conservation of mass. Working during the time just after Paracelsus and iatrochemistry, Jan Baptist van Helmont suggested that there are insubstantial substances other than air and coined a name for them – "gas", from the Greek word chaos. In addition to introducing the word "gas" into the vocabulary of scientists, van Helmont conducted several experiments involving gases. Jan Baptist van Helmont is also remembered today largely for his ideas on spontaneous generation and his 5-year tree experiment, as well as being considered the founder of pneumatic chemistry.
+
+Robert Boyle
+
+Robert Boyle, a transitional figure between alchemy and modern chemistry.
+
+Title page from The Sceptical Chymist, 1661, Chemical Heritage Foundation
+Anglo-Irish chemist Robert Boyle (1627–1691) is considered to have initiated the gradual separation of chemistry from alchemy.[36] Although skeptical of elements and convinced of alchemy, Boyle played a key part in elevating the "sacred art" as an independent, fundamental and philosophical discipline. He is best known for Boyle's law, which he presented in 1662, though he was not the first to discover it.[37] The law describes the inversely proportional relationship between the absolute pressure and volume of a gas, if the temperature is kept constant within a closed system.[38][39]
+
+Boyle is also credited for his landmark publication The Sceptical Chymist (1661), which advocated for a rigorous approach to experimentation among chemists. In the work, Boyle questioned some commonly held alchemical theories and argued for practitioners to be more “philosophical” and less commercially focused.[40] He rejected the classical four elements of earth, fire, air, and water, and proposed a mechanistic alternative of atoms and chemical reactions that could be subject to rigorous experiment.
+
+Boyle also tried to purify chemicals to obtain reproducible reactions. He was a vocal proponent of the mechanical philosophy proposed by René Descartes to explain and quantify the physical properties and interactions of material substances. Boyle was an atomist, but favoured the word corpuscle over atoms. He commented that the finest division of matter where the properties are retained is at the level of corpuscles.
+
+Boyle repeated the tree experiment of van Helmont, and was the first to use indicators which changed colors with acidity. He also performed numerous investigations with an air pump, and noted that the mercury fell as air was pumped out. He also observed that pumping the air out of a container would extinguish a flame and kill small animals placed inside. Through his works, Boyle helped to lay the foundations for the chemical revolution two centuries later.[41]
+
+Development and dismantling of phlogiston
+
+Joseph Priestley, co-discoverer of the element oxygen, which he called "dephlogisticated air"
+In 1702, German chemist Georg Stahl coined the name "phlogiston" for the substance believed to be released in the process of burning. Around 1735, Swedish chemist Georg Brandt analyzed a dark blue pigment found in copper ore. Brandt demonstrated that the pigment contained a new element, later named cobalt. In 1751, a Swedish chemist and pupil of Stahl's named Axel Fredrik Cronstedt, identified an impurity in copper ore as a separate metallic element, which he named nickel. Cronstedt is one of the founders of modern mineralogy.[42] Cronstedt also discovered the mineral scheelite in 1751, which he named tungsten, meaning "heavy stone" in Swedish.
+
+In 1754, Scottish chemist Joseph Black isolated carbon dioxide, which he called "fixed air".[43] In 1757, Louis Claude Cadet de Gassicourt, while investigating arsenic compounds, creates Cadet's fuming liquid, later discovered to be cacodyl oxide, considered to be the first synthetic organometallic compound.[44] In 1758, Joseph Black formulated the concept of latent heat to explain the thermochemistry of phase changes.[45] In 1766, English chemist Henry Cavendish isolated hydrogen, which he called "inflammable air". Cavendish discovered hydrogen as a colorless, odourless gas that burns and can form an explosive mixture with air, and published a paper on the production of water by burning inflammable air (that is, hydrogen) in dephlogisticated air (now known to be oxygen), the latter a constituent of atmospheric air (phlogiston theory).
+
+In 1773, Swedish chemist Carl Wilhelm Scheele discovered oxygen, which he called "fire air", but did not immediately publish his achievement.[46] In 1774, English chemist Joseph Priestley independently isolated oxygen in its gaseous state, calling it "dephlogisticated air", and published his work before Scheele.[47][48] During his lifetime, Priestley's considerable scientific reputation rested on his invention of soda water, his writings on electricity, and his discovery of several "airs" (gases), the most famous being what Priestley dubbed "dephlogisticated air" (oxygen). However, Priestley's determination to defend phlogiston theory and to reject what would become the chemical revolution eventually left him isolated within the scientific community.
+
+In 1781, Carl Wilhelm Scheele discovered that a new acid, tungstic acid, could be made from Cronstedt's scheelite (at the time named tungsten). Scheele and Torbern Bergman suggested that it might be possible to obtain a new metal by reducing this acid.[49] In 1783, José and Fausto Elhuyar found an acid made from wolframite that was identical to tungstic acid. Later that year, in Spain, the brothers succeeded in isolating the metal now known as tungsten by reduction of this acid with charcoal, and they are credited with the discovery of the element.[50][51]
+
+Volta and the Voltaic pile
+
+A voltaic pile on display in the Tempio Voltiano (the Volta Temple) near Volta's home in Como.
+Italian physicist Alessandro Volta constructed a device for accumulating a large charge by a series of inductions and groundings. He investigated the 1780s discovery "animal electricity" by Luigi Galvani, and found that the electric current was generated from the contact of dissimilar metals, and that the frog leg was only acting as a detector. Volta demonstrated in 1794 that when two metals and brine-soaked cloth or cardboard are arranged in a circuit they produce an electric current.
+
+In 1800, Volta stacked several pairs of alternating copper (or silver) and zinc discs (electrodes) separated by cloth or cardboard soaked in brine (electrolyte) to increase the electrolyte conductivity.[52] When the top and bottom contacts were connected by a wire, an electric current flowed through this voltaic pile and the connecting wire. Thus, Volta is credited with constructing the first electrical battery to produce electricity.
+
+Thus, Volta is considered to be the founder of the discipline of electrochemistry.[53] A Galvanic cell (or voltaic cell) is an electrochemical cell that derives electrical energy from a spontaneous redox reaction taking place within the cell. It generally consists of two different metals connected by a salt bridge, or individual half-cells separated by a porous membrane.
+
+Antoine-Laurent de Lavoisier
+
+Portrait of Monsieur Lavoisier and his wife, by Jacques-Louis David
+Main articles: Antoine Lavoisier and Chemical revolution
+Antoine-Laurent de Lavoisier demonstrated with careful measurements that transmutation of water to earth was not possible, but that the sediment observed from boiling water came from the container. He burnt phosphorus and sulfur in air, and proved that the products weighed more than the original samples, with the mass gained being lost from the air. Thus, in 1789, he established the Law of Conservation of Mass, which is also called "Lavoisier's Law."[54]
+
+
+The world's first ice-calorimeter, used in the winter of 1782–83, by Antoine Lavoisier and Pierre-Simon Laplace, to determine the heat involved in various chemical changes; calculations which were based on Joseph Black's prior discovery of latent heat. These experiments mark the foundation of thermochemistry.
+Repeating the experiments of Priestley, he demonstrated that air is composed of two parts, one of which combines with metals to form calxes. In Considérations Générales sur la Nature des Acides (1778), he demonstrated that the "air" responsible for combustion was also the source of acidity. The next year, he named this portion oxygen (Greek for acid-former), and the other azote (Greek for no life). Because of his more thorough characterization of it as an element, Lavoisier thus has a claim to the discovery of oxygen along with Priestley and Scheele. He also discovered that the "inflammable air" discovered by Cavendish – which he termed hydrogen (Greek for water-former) – combined with oxygen to produce a dew, as Priestley had reported, which appeared to be water. In Reflexions sur le Phlogistique (1783), Lavoisier showed the phlogiston theory of combustion to be inconsistent. Mikhail Lomonosov independently established a tradition of chemistry in Russia in the 18th century; he also rejected the phlogiston theory, and anticipated the kinetic theory of gases. Lomonosov regarded heat as a form of motion, and stated the idea of conservation of matter.
+
+Lavoisier worked with Claude Louis Berthollet and others to devise a system of chemical nomenclature, which serves as the basis of the modern system of naming chemical compounds. In his Methods of Chemical Nomenclature (1787), Lavoisier invented the system of naming and classification still largely in use today, including names such as sulfuric acid, sulfates, and sulfites. In 1785, Berthollet was the first to introduce the use of chlorine gas as a commercial bleach. In the same year he first determined the elemental composition of the gas ammonia. Berthollet first produced a modern bleaching liquid in 1789 by passing chlorine gas through a solution of sodium carbonate – the result was a weak solution of sodium hypochlorite. Another strong chlorine oxidant and bleach which he investigated and was the first to produce, potassium chlorate (KClO3), is known as Berthollet's Salt. Berthollet is also known for his scientific contributions to the theory of chemical equilibrium via the mechanism of reversible reactions.
+
+
+Traité élémentaire de chimie
+Lavoisier's Traité Élémentaire de Chimie (Elementary Treatise of Chemistry, 1789) was the first modern chemical textbook, and presented a unified view of new theories of chemistry, contained a clear statement of the Law of Conservation of Mass, and denied the existence of phlogiston. In addition, it contained a list of elements, or substances that could not be broken down further, which included oxygen, nitrogen, hydrogen, phosphorus, mercury, zinc, and sulfur. His list, however, also included light and caloric, which he believed to be material substances. In the work, Lavoisier underscored the observational basis of his chemistry, stating "I have tried...to arrive at the truth by linking up facts; to suppress as much as possible the use of reasoning, which is often an unreliable instrument which deceives us, in order to follow as much as possible the torch of observation and of experiment." Nevertheless, he believed that the real existence of atoms was philosophically impossible. Lavoisier demonstrated that organisms disassemble and reconstitute atmospheric air in the same manner as a burning body.
+
+With Pierre-Simon Laplace, Lavoisier used a calorimeter to estimate the heat evolved per unit of carbon dioxide produced. They found the same ratio for a flame and animals, indicating that animals produced energy by a type of combustion. Lavoisier believed in the radical theory, which stated that radicals, which function as a single group in a chemical reaction, would combine with oxygen in reactions. He believed all acids contained oxygen. He also discovered that diamond is a crystalline form of carbon.
+
+Although many of Lavoisier's partners were influential for the advancement of chemistry as a scientific discipline, his wife Marie-Anne Lavoisier was arguably the most influential of them all. Upon their marriage, Mme. Lavoisier began to study chemistry, English, and drawing in order to help her husband in his work either by translating papers into English, a language which Lavoisier did not know, or by keeping records and drawing the various apparatuses that Lavoisier used in his labs.[55] Through her ability to read and translate articles from Britain for her husband, Lavoisier had access to knowledge of many of the chemical advances happening outside of his lab. Furthermore, Mme. Lavoisier kept records of her husband's work and ensured that his works were published. The first sign of Marie-Anne's true potential as a chemist in Lavoisier's lab came when she was translating a book by the scientist Richard Kirwan. While translating, she stumbled upon and corrected multiple errors. When she presented her translation, along with her notes, to Lavoisier, her contributions led to Lavoisier's refutation of the theory of phlogiston.
+
+Lavoisier made many fundamental contributions to the science of chemistry. Following his work, chemistry acquired a strict, quantitative nature, allowing reliable predictions to be made. The revolution in chemistry which he brought about was a result of a conscious effort to fit all experiments into the framework of a single theory. He established the consistent use of chemical balance, used oxygen to overthrow the phlogiston theory, and developed a new system of chemical nomenclature. Further potential contributions were cut short when Lavoisier was beheaded during the French Revolution.
+
+19th century
+In 1802, French American chemist and industrialist Éleuthère Irénée du Pont, who learned manufacture of gunpowder and explosives under Antoine Lavoisier, founded a gunpowder manufacturer in Delaware known as E. I. du Pont de Nemours and Company. The French Revolution forced his family to move to the United States where du Pont started a gunpowder mill on the Brandywine River in Delaware. Wanting to make the best powder possible, du Pont was vigilant about the quality of the materials he used. For 32 years, du Pont served as president of E. I. du Pont de Nemours and Company, which eventually grew into one of the largest and most successful companies in America.
+
+Throughout the 19th century, chemistry was divided between those who followed the atomic theory of John Dalton and those who did not, such as Wilhelm Ostwald and Ernst Mach.[56] Although such proponents of the atomic theory as Amedeo Avogadro and Ludwig Boltzmann made great advances in explaining the behavior of gases, this dispute was not finally settled until Jean Perrin's experimental investigation of Einstein's atomic explanation of Brownian motion in the first decade of the 20th century.[56]
+
+Well before the dispute had been settled, many had already applied the concept of atomism to chemistry. A major example was the ion theory of Svante Arrhenius which anticipated ideas about atomic substructure that did not fully develop until the 20th century. Michael Faraday was another early worker, whose major contribution to chemistry was electrochemistry, in which (among other things) a certain quantity of electricity during electrolysis or electrodeposition of metals was shown to be associated with certain quantities of chemical elements, and fixed quantities of the elements therefore with each other, in specific ratios.[citation needed] These findings, like those of Dalton's combining ratios, were early clues to the atomic nature of matter.
+
+
+John Dalton
+
+John Dalton is remembered for his work on partial pressures in gases, color blindness, and atomic theory
+Main articles: John Dalton and Atomic theory
+In 1803, English meteorologist and chemist John Dalton proposed Dalton's law, which describes the relationship between the components in a mixture of gases and the relative pressure each contributes to that of the overall mixture.[57] Discovered in 1801, this concept is also known as Dalton's law of partial pressures.
+
+Dalton also proposed a modern atomic theory in 1803 which stated that all matter was composed of small indivisible particles termed atoms, atoms of a given element possess unique characteristics and weight, and three types of atoms exist: simple (elements), compound (simple molecules), and complex (complex molecules). In 1808, Dalton first published New System of Chemical Philosophy (1808–1827), in which he outlined the first modern scientific description of the atomic theory. This work identified chemical elements as a specific type of atom, therefore rejecting Newton's theory of chemical affinities.
+
+Instead, Dalton inferred proportions of elements in compounds by taking ratios of the weights of reactants, setting the atomic weight of hydrogen to be identically one. Following Jeremias Benjamin Richter (known for introducing the term stoichiometry), he proposed that chemical elements combine in integral ratios. This is known as the law of multiple proportions or Dalton's law, and Dalton included a clear description of the law in his New System of Chemical Philosophy. The law of multiple proportions is one of the basic laws of stoichiometry used to establish the atomic theory. Despite the importance of the work as the first view of atoms as physically real entities and the introduction of a system of chemical symbols, New System of Chemical Philosophy devoted almost as much space to the caloric theory as to atomism.
+
+French chemist Joseph Proust proposed the law of definite proportions, which states that elements always combine in small, whole number ratios to form compounds, based on several experiments conducted between 1797 and 1804[58] Along with the law of multiple proportions, the law of definite proportions forms the basis of stoichiometry. The law of definite proportions and constant composition do not prove that atoms exist, but they are difficult to explain without assuming that chemical compounds are formed when atoms combine in constant proportions.
+
+Jöns Jacob Berzelius
+
+Jöns Jacob Berzelius, the chemist who worked out the modern technique of chemical formula notation and is considered one of the fathers of modern chemistry
+Main article: Jöns Jacob Berzelius
+A Swedish chemist and disciple of Dalton, Jöns Jacob Berzelius embarked on a systematic program to try to make accurate and precise quantitative measurements and to ensure the purity of chemicals. Along with Lavoisier, Boyle, and Dalton, Berzelius is known as the father of modern chemistry. In 1828 he compiled a table of relative atomic weights, where oxygen was used as a standard, with its weight set at 100, and which included all of the elements known at the time. This work provided evidence in favor of Dalton's atomic theory – that inorganic chemical compounds are composed of atoms combined in whole number amounts. He determined the exact elementary constituents of a large number of compounds; the results strongly supported Proust's Law of Definite Proportions. In discovering that atomic weights are not integer multiples of the weight of hydrogen, Berzelius also disproved Prout's hypothesis that elements are built up from atoms of hydrogen.
+
+Motivated by his extensive atomic weight determinations and in a desire to aid his experiments, he introduced the classical system of chemical symbols and notation with his 1808 publication Lärbok i Kemien, in which elements are abbreviated to one or two letters to make a distinct symbol from their Latin name. This system of chemical notation—in which the elements were given simple written labels, such as O for oxygen, or Fe for iron, with proportions denoted by numbers—is the same basic system used today. The only difference is that instead of the subscript number used today (e.g., H2O), Berzelius used a superscript (H2O). Berzelius is credited with identifying the chemical elements silicon, selenium, thorium, and cerium. Students working in Berzelius's laboratory also discovered lithium and vanadium.
+
+Berzelius developed the radical theory of chemical combination, which holds that reactions occur as stable groups of atoms called radicals are exchanged between molecules. He believed that salts are compounds formed of acids and bases, and discovered that the anions in acids were attracted to a positive electrode (the anode), whereas the cations in a base were attracted to a negative electrode (the cathode). Berzelius did not believe in the Vitalism Theory, but instead in a regulative force which produced organization of tissues in an organism. Berzelius is also credited with originating the chemical terms "catalysis", "polymer", "isomer", and "allotrope", although his original definitions differ dramatically from modern usage. For example, he coined the term "polymer" in 1833 to describe organic compounds which shared identical empirical formulas but which differed in overall molecular weight, the larger of the compounds being described as "polymers" of the smallest. By this long-superseded, pre-structural definition, glucose (C6H12O6) was viewed as a polymer of formaldehyde (CH2O).
+
+New elements and gas laws
+
+Humphry Davy, the discover of several alkali and alkaline earth metals, as well as contributions to the discoveries of the elemental nature of chlorine and iodine.
+Main article: Humphry Davy
+English chemist Humphry Davy was a pioneer in the field of electrolysis, using Alessandro Volta's voltaic pile to split up common compounds and thus isolate a series of new elements. He went on to electrolyse molten salts and discovered several new metals, especially sodium and potassium, highly reactive elements known as the alkali metals. Potassium, the first metal that was isolated by electrolysis, was discovered in 1807 by Davy, who derived it from caustic potash (KOH). Before the 19th century, no distinction was made between potassium and sodium. Sodium was first isolated by Davy in the same year by passing an electric current through molten sodium hydroxide (NaOH). When Davy heard that Berzelius and Pontin prepared calcium amalgam by electrolyzing lime in mercury, he tried it himself. Davy was successful, and discovered calcium in 1808 by electrolyzing a mixture of lime and mercuric oxide.[59][60] He worked with electrolysis throughout his life and, in 1808, he isolated magnesium, strontium[61] and barium.[62]
+
+Davy also experimented with gases by inhaling them. This experimental procedure nearly proved fatal on several occasions, but led to the discovery of the unusual effects of nitrous oxide, which came to be known as laughing gas. Chlorine was discovered in 1774 by Swedish chemist Carl Wilhelm Scheele, who called it "dephlogisticated marine acid" (see phlogiston theory) and mistakenly thought it contained oxygen. Scheele observed several properties of chlorine gas, such as its bleaching effect on litmus, its deadly effect on insects, its yellow-green colour, and the similarity of its smell to that of aqua regia. However, Scheele was unable to publish his findings at the time. In 1810, chlorine was given its current name by Humphry Davy (derived from the Greek word for green), who insisted that chlorine was in fact an element.[63] He also showed that oxygen could not be obtained from the substance known as oxymuriatic acid (HCl solution). This discovery overturned Lavoisier's definition of acids as compounds of oxygen. Davy was a popular lecturer and able experimenter.
+
+
+Joseph Louis Gay-Lussac, who stated that the ratio between the volumes of the reactant gases and the products can be expressed in simple whole numbers.
+Main articles: Joseph Louis Gay-Lussac and Gay-Lussac's law
+French chemist Joseph Louis Gay-Lussac shared the interest of Lavoisier and others in the quantitative study of the properties of gases. From his first major program of research in 1801–1802, he concluded that equal volumes of all gases expand equally with the same increase in temperature: this conclusion is usually called "Charles's law", as Gay-Lussac gave credit to Jacques Charles, who had arrived at nearly the same conclusion in the 1780s but had not published it.[64] The law was independently discovered by British natural philosopher John Dalton by 1801, although Dalton's description was less thorough than Gay-Lussac's.[65][66] In 1804 Gay-Lussac made several daring ascents of over 7,000 meters above sea level in hydrogen-filled balloons—a feat not equaled for another 50 years—that allowed him to investigate other aspects of gases. Not only did he gather magnetic measurements at various altitudes, but he also took pressure, temperature, and humidity measurements and samples of air, which he later analyzed chemically.
+
+In 1808 Gay-Lussac announced what was probably his single greatest achievement: from his own and others' experiments he deduced that gases at constant temperature and pressure combine in simple numerical proportions by volume, and the resulting product or products—if gases—also bear a simple proportion by volume to the volumes of the reactants. In other words, gases under equal conditions of temperature and pressure react with one another in volume ratios of small whole numbers. This conclusion subsequently became known as "Gay-Lussac's law" or the "Law of Combining Volumes". With his fellow professor at the École Polytechnique, Louis Jacques Thénard, Gay-Lussac also participated in early electrochemical research, investigating the elements discovered by its means. Among other achievements, they decomposed boric acid by using fused potassium, thus discovering the element boron. The two also took part in contemporary debates that modified Lavoisier's definition of acids and furthered his program of analyzing organic compounds for their oxygen and hydrogen content.
+
+The element iodine was discovered by French chemist Bernard Courtois in 1811.[67][68] Courtois gave samples to his friends, Charles Bernard Desormes (1777–1862) and Nicolas Clément (1779–1841), to continue research. He also gave some of the substance to Gay-Lussac and to physicist André-Marie Ampère. On December 6, 1813, Gay-Lussac announced that the new substance was either an element or a compound of oxygen.[69][70][71] It was Gay-Lussac who suggested the name "iode", from the Greek word ιώδες (iodes) for violet (because of the color of iodine vapor).[67][69] Ampère had given some of his sample to Humphry Davy. Davy did some experiments on the substance and noted its similarity to chlorine.[72] Davy sent a letter dated December 10 to the Royal Society of London stating that he had identified a new element.[73] Arguments erupted between Davy and Gay-Lussac over who identified iodine first, but both scientists acknowledged Courtois as the first to isolate the element.
+
+In 1815, Humphry Davy invented the Davy lamp, which allowed miners within coal mines to work safely in the presence of flammable gases. There had been many mining explosions caused by firedamp or methane often ignited by open flames of the lamps then used by miners. Davy conceived of using an iron gauze to enclose a lamp's flame, and so prevent the methane burning inside the lamp from passing out to the general atmosphere. Although the idea of the safety lamp had already been demonstrated by William Reid Clanny and by the then unknown (but later very famous) engineer George Stephenson, Davy's use of wire gauze to prevent the spread of flame was used by many other inventors in their later designs. There was some discussion as to whether Davy had discovered the principles behind his lamp without the help of the work of Smithson Tennant, but it was generally agreed that the work of both men had been independent. Davy refused to patent the lamp, and its invention led to him being awarded the Rumford medal in 1816.[74]
+
+
+Amedeo Avogadro, who postulated that, under controlled conditions of temperature and pressure, equal volumes of gases contain an equal number of molecules. This is known as Avogadro's law.
+Main articles: Amedeo Avogadro and Avogadro's law
+After Dalton published his atomic theory in 1808, certain of his central ideas were soon adopted by most chemists. However, uncertainty persisted for half a century about how atomic theory was to be configured and applied to concrete situations; chemists in different countries developed several different incompatible atomistic systems. A paper that suggested a way out of this difficult situation was published as early as 1811 by the Italian physicist Amedeo Avogadro (1776–1856), who hypothesized that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules, from which it followed that relative molecular weights of any two gases are the same as the ratio of the densities of the two gases under the same conditions of temperature and pressure. Avogadro also reasoned that simple gases were not formed of solitary atoms but were instead compound molecules of two or more atoms. Thus Avogadro was able to overcome the difficulty that Dalton and others had encountered when Gay-Lussac reported that above 100 °C the volume of water vapor was twice the volume of the oxygen used to form it. According to Avogadro, the molecule of oxygen had split into two atoms in the course of forming water vapor.
+
+Avogadro's hypothesis was neglected for half a century after it was first published. Many reasons for this neglect have been cited, including some theoretical problems, such as Jöns Jacob Berzelius's "dualism", which asserted that compounds are held together by the attraction of positive and negative electrical charges, making it inconceivable that a molecule composed of two electrically similar atoms—as in oxygen—could exist. An additional barrier to acceptance was the fact that many chemists were reluctant to adopt physical methods (such as vapour-density determinations) to solve their problems. By mid-century, however, some leading figures had begun to view the chaotic multiplicity of competing systems of atomic weights and molecular formulas as intolerable. Moreover, purely chemical evidence began to mount that suggested Avogadro's approach might be right after all. During the 1850s, younger chemists, such as Alexander Williamson in England, Charles Gerhardt and Charles-Adolphe Wurtz in France, and August Kekulé in Germany, began to advocate reforming theoretical chemistry to make it consistent with Avogadrian theory.
+
+Wöhler and the vitalism debate
+
+Structural formula of urea
+Main articles: Vitalism, Friedrich Wöhler, and Wöhler synthesis
+In 1825, Friedrich Wöhler and Justus von Liebig performed the first confirmed discovery and explanation of isomers, earlier named by Berzelius. Working with cyanic acid and fulminic acid, they correctly deduced that isomerism was caused by differing arrangements of atoms within a molecular structure. In 1827, William Prout classified biomolecules into their modern groupings: carbohydrates, proteins and lipids. After the nature of combustion was settled, a dispute about vitalism and the essential distinction between organic and inorganic substances began. The vitalism question was revolutionized in 1828 when Friedrich Wöhler synthesized urea, thereby establishing that organic compounds could be produced from inorganic starting materials and disproving the theory of vitalism.
+
+This opened a new research field in chemistry, and by the end of the 19th century, scientists were able to synthesize hundreds of organic compounds. The most important among them are mauve, magenta, and other synthetic dyes, as well as the widely used drug aspirin. The discovery of the artificial synthesis of urea contributed greatly to the theory of isomerism, as the empirical chemical formulas for urea and ammonium cyanate are identical (see Wöhler synthesis). In 1832, Friedrich Wöhler and Justus von Liebig discovered and explained functional groups and radicals in relation to organic chemistry, as well as first synthesizing benzaldehyde. Liebig, a German chemist, made major contributions to agricultural and biological chemistry, and worked on the organization of organic chemistry. Liebig is considered the "father of the fertilizer industry" for his discovery of nitrogen as an essential plant nutrient, and his formulation of the Law of the Minimum which described the effect of individual nutrients on crops.
+
+Vladimir Markovnikov
+
+Markovnikov did extensive research on substitution and stereochemistry
+Main article: Vladimir Markovnikov
+Vladimir Markovnikov, born in 1838, was a Russian scientist who did most of his work at Kazan University in Russia.[75] At Kazan, he studied under Butlerov in a laboratory better known as "the cradle of Russian organic chemistry", after which he also studied chemistry in Germany for two years.[75] Markovnikov's contributions to the fields of organic chemistry included the development of the eponymous Markovnikov's rule, which states that hydrogen halides when added to alkenes and alkynes would add in a way that hydrogens would bond to the side of the carbon with the most hydrogen substituents.[76] Products in chemistry that follow this rule are considered Markovnikov products and those that did not are considered anti-Markovnikov products.[76] Markovnikov's rule was an early example of regioselectivity in organic synthesis and the modern understanding of it continues to be important in the chemical industry, where catalysts have been developed to produce anti-Markovnikov products.[76] A significant aspect of Markovnikov's rule is that it explains reactivity based on the structural arrangement of atoms, as many chemists at the time did not consider chemical formulas as representing physical arrangement of atoms (see also radical theory).[77]
+
+Mid-1800s
+In 1840, Germain Hess proposed Hess's law, an early statement of the law of conservation of energy, which establishes that energy changes in a chemical process depend only on the states of the starting and product materials and not on the specific pathway taken between the two states. In 1847, Hermann Kolbe obtained acetic acid from completely inorganic sources, further disproving vitalism. In 1848, William Thomson, 1st Baron Kelvin (commonly known as Lord Kelvin) established the concept of absolute zero, the temperature at which all molecular motion ceases. In 1849, Louis Pasteur discovered that the racemic form of tartaric acid is a mixture of the levorotatory and dextrotatory forms, thus clarifying the nature of optical rotation and advancing the field of stereochemistry.[78] In 1852, August Beer proposed Beer's law, which explains the relationship between the composition of a mixture and the amount of light it will absorb. Based partly on earlier work by Pierre Bouguer and Johann Heinrich Lambert, it established the analytical technique known as spectrophotometry.[79] In 1855, Benjamin Silliman, Jr. pioneered methods of petroleum cracking, which made the entire modern petrochemical industry possible.[80]
+
+
+Formulas of acetic acid given by August Kekulé in 1861.
+Main articles: Stanislao Cannizzaro and Karlsruhe Congress
+Avogadro's hypothesis began to gain broad appeal among chemists only after his compatriot and fellow scientist Stanislao Cannizzaro demonstrated its value in 1858, two years after Avogadro's death. Cannizzaro's chemical interests had originally centered on natural products and on reactions of aromatic compounds; in 1853 he discovered that when benzaldehyde is treated with concentrated base, both benzoic acid and benzyl alcohol are produced—a phenomenon known today as the Cannizzaro reaction. In his 1858 pamphlet, Cannizzaro showed that a complete return to the ideas of Avogadro could be used to construct a consistent and robust theoretical structure that fit nearly all of the available empirical evidence. For instance, he pointed to evidence that suggested that not all elementary gases consist of two atoms per molecule—some were monatomic, most were diatomic, and a few were even more complex.
+
+Another point of contention had been the formulas for compounds of the alkali metals (such as sodium) and the alkaline earth metals (such as calcium), which, in view of their striking chemical analogies, most chemists had wanted to assign to the same formula type. Cannizzaro argued that placing these metals in different categories had the beneficial result of eliminating certain anomalies when using their physical properties to deduce atomic weights. Unfortunately, Cannizzaro's pamphlet was published initially only in Italian and had little immediate impact. The real breakthrough came with an international chemical congress held in the German town of Karlsruhe in September 1860, at which most of the leading European chemists were present. The Karlsruhe Congress had been arranged by Kekulé, Wurtz, and a few others who shared Cannizzaro's sense of the direction chemistry should go. Speaking in French (as everyone there did), Cannizzaro's eloquence and logic made an indelible impression on the assembled body. Moreover, his friend Angelo Pavesi distributed Cannizzaro's pamphlet to attendees at the end of the meeting; more than one chemist later wrote of the decisive impression the reading of this document provided. For instance, Lothar Meyer later wrote that on reading Cannizzaro's paper, "The scales seemed to fall from my eyes."[81] Cannizzaro thus played a crucial role in winning the battle for reform. The system advocated by him, and soon thereafter adopted by most leading chemists, is substantially identical to what is still used today.
+
+Perkin, Crookes, and Nobel
+In 1856, Sir William Henry Perkin, age 18, given a challenge by his professor, August Wilhelm von Hofmann, sought to synthesize quinine, the anti-malaria drug, from coal tar. In one attempt, Perkin oxidized aniline using potassium dichromate, whose toluidine impurities reacted with the aniline and yielded a black solid—suggesting a "failed" organic synthesis. Cleaning the flask with alcohol, Perkin noticed purple portions of the solution: a byproduct of the attempt was the first synthetic dye, known as mauveine or Perkin's mauve. Perkin's discovery is the foundation of the dye synthesis industry, one of the earliest successful chemical industries.
+
+German chemist August Kekulé von Stradonitz's most important single contribution was his structural theory of organic composition, outlined in two articles published in 1857 and 1858 and treated in great detail in the pages of his extraordinarily popular Lehrbuch der organischen Chemie ("Textbook of Organic Chemistry"), the first installment of which appeared in 1859 and gradually extended to four volumes. Kekulé argued that tetravalent carbon atoms – that is, carbon forming exactly four chemical bonds – could link together to form what he called a "carbon chain" or a "carbon skeleton," to which other atoms with other valences (such as hydrogen, oxygen, nitrogen, and chlorine) could join. He was convinced that it was possible for the chemist to specify this detailed molecular architecture for at least the simpler organic compounds known in his day. Kekulé was not the only chemist to make such claims in this era. The Scottish chemist Archibald Scott Couper published a substantially similar theory nearly simultaneously, and the Russian chemist Aleksandr Butlerov did much to clarify and expand structure theory. However, it was predominantly Kekulé's ideas that prevailed in the chemical community.
+
+
+A Crookes tube (2 views): light and dark. Electrons travel in straight lines from the cathode (left), as evidenced by the shadow cast from the Maltese cross on the fluorescence of the righthand end. The anode is at the bottom wire.
+British chemist and physicist William Crookes is noted for his cathode ray studies, fundamental in the development of atomic physics. His researches on electrical discharges through a rarefied gas led him to observe the dark space around the cathode, now called the Crookes dark space. He demonstrated that cathode rays travel in straight lines and produce phosphorescence and heat when they strike certain materials. A pioneer of vacuum tubes, Crookes invented the Crookes tube – an early experimental discharge tube, with partial vacuum with which he studied the behavior of cathode rays. With the introduction of spectrum analysis by Robert Bunsen and Gustav Kirchhoff (1859–1860), Crookes applied the new technique to the study of selenium compounds. Bunsen and Kirchhoff had previously used spectroscopy as a means of chemical analysis to discover caesium and rubidium. In 1861, Crookes used this process to discover thallium in some seleniferous deposits. He continued work on that new element, isolated it, studied its properties, and in 1873 determined its atomic weight. During his studies of thallium, Crookes discovered the principle of the Crookes radiometer, a device that converts light radiation into rotary motion. The principle of this radiometer has found numerous applications in the development of sensitive measuring instruments.
+
+In 1862, Alexander Parkes exhibited Parkesine, one of the earliest synthetic polymers, at the International Exhibition in London. This discovery formed the foundation of the modern plastics industry. In 1864, Cato Maximilian Guldberg and Peter Waage, building on Claude Louis Berthollet's ideas, proposed the law of mass action. In 1865, Johann Josef Loschmidt determined the number of molecules in a mole, later named Avogadro's number.
+
+In 1865, August Kekulé, based partially on the work of Loschmidt and others, established the structure of benzene as a six carbon ring with alternating single and double bonds. Kekulé's novel proposal for benzene's cyclic structure was much contested but was never replaced by a superior theory. This theory provided the scientific basis for the dramatic expansion of the German chemical industry in the last third of the 19th century. Kekulé is also famous for having clarified the nature of aromatic compounds, which are compounds based on the benzene molecule. In 1865, Adolf von Baeyer began work on indigo dye, a milestone in modern industrial organic chemistry which revolutionized the dye industry.
+
+Swedish chemist and inventor Alfred Nobel found that when nitroglycerin was incorporated in an absorbent inert substance like kieselguhr (diatomaceous earth) it became safer and more convenient to handle, and this mixture he patented in 1867 as dynamite. Nobel later on combined nitroglycerin with various nitrocellulose compounds, similar to collodion, but settled on a more efficient recipe combining another nitrate explosive, and obtained a transparent, jelly-like substance, which was a more powerful explosive than dynamite. Gelignite, or blasting gelatin, as it was named, was patented in 1876; and was followed by a host of similar combinations, modified by the addition of potassium nitrate and various other substances.
+
+Mendeleev's periodic table
+Main articles: Dmitri Mendeleev, Periodic table, and History of the periodic table
+
+Dmitri Mendeleev, responsible for organizing the known chemical elements in a periodic table.
+An important breakthrough in making sense of the list of known chemical elements (as well as in understanding the internal structure of atoms) was Dmitri Mendeleev's development of the first modern periodic table, or the periodic classification of the elements. Mendeleev, a Russian chemist, felt that there was some type of order to the elements and he spent more than thirteen years of his life collecting data and assembling the concept, initially with the idea of resolving some of the disorder in the field for his students. Mendeleev found that, when all the known chemical elements were arranged in order of increasing atomic weight, the resulting table displayed a recurring pattern, or periodicity, of properties within groups of elements. Mendeleev's law allowed him to build up a systematic periodic table of all the 66 elements then known based on atomic mass, which he published in Principles of Chemistry in 1869. His first Periodic Table was compiled on the basis of arranging the elements in ascending order of atomic weight and grouping them by similarity of properties.
+
+Mendeleev had such faith in the validity of the periodic law that he proposed changes to the generally accepted values for the atomic weight of a few elements and, in his version of the periodic table of 1871, predicted the locations within the table of unknown elements together with their properties. He even predicted the likely properties of three yet-to-be-discovered elements, which he called ekaboron (Eb), ekaaluminium (Ea), and ekasilicon (Es), which proved to be good predictors of the properties of scandium, gallium, and germanium, respectively, which each fill the spot in the periodic table assigned by Mendeleev.
+
+At first the periodic system did not raise interest among chemists. However, with the discovery of the predicted elements, notably gallium in 1875, scandium in 1879, and germanium in 1886, it began to win wide acceptance. The subsequent proof of many of his predictions within his lifetime brought fame to Mendeleev as the founder of the periodic law. This organization surpassed earlier attempts at classification by Alexandre-Émile Béguyer de Chancourtois, who published the telluric helix, an early, three-dimensional version of the periodic table of the elements in 1862, John Newlands, who proposed the law of octaves (a precursor to the periodic law) in 1864, and Lothar Meyer, who developed an early version of the periodic table with 28 elements organized by valence in 1864. Mendeleev's table did not include any of the noble gases, however, which had not yet been discovered. Gradually the periodic law and table became the framework for a great part of chemical theory. By the time Mendeleev died in 1907, he enjoyed international recognition and had received distinctions and awards from many countries.
+
+In 1873, Jacobus Henricus van 't Hoff and Joseph Achille Le Bel, working independently, developed a model of chemical bonding that explained the chirality experiments of Pasteur and provided a physical cause for optical activity in chiral compounds.[82] van 't Hoff's publication, called Voorstel tot Uitbreiding der Tegenwoordige in de Scheikunde gebruikte Structuurformules in de Ruimte, etc. (Proposal for the development of 3-dimensional chemical structural formulae) and consisting of twelve pages of text and one page of diagrams, gave the impetus to the development of stereochemistry. The concept of the "asymmetrical carbon atom", dealt with in this publication, supplied an explanation of the occurrence of numerous isomers, inexplicable by means of the then current structural formulae. At the same time he pointed out the existence of relationship between optical activity and the presence of an asymmetrical carbon atom.
+
+Josiah Willard Gibbs
+Main articles: Josiah Willard Gibbs and Statistical mechanics
+
+J. Willard Gibbs formulated a concept of thermodynamic equilibrium of a system in terms of energy and entropy. He also did extensive work on chemical equilibrium, and equilibria between phases.
+American mathematical physicist J. Willard Gibbs's work on the applications of thermodynamics was instrumental in transforming physical chemistry into a rigorous deductive science. During the years from 1876 to 1878, Gibbs worked on the principles of thermodynamics, applying them to the complex processes involved in chemical reactions. He discovered the concept of chemical potential, or the "fuel" that makes chemical reactions work. In 1876 he published his most famous contribution, "On the Equilibrium of Heterogeneous Substances", a compilation of his work on thermodynamics and physical chemistry which laid out the concept of free energy to explain the physical basis of chemical equilibria.[83] In these essays were the beginnings of Gibbs' theories of phases of matter: he considered each state of matter a phase, and each substance a component. Gibbs took all of the variables involved in a chemical reaction – temperature, pressure, energy, volume, and entropy – and included them in one simple equation known as Gibbs' phase rule.
+
+Within this paper was perhaps his most outstanding contribution, the introduction of the concept of free energy, now universally called Gibbs free energy in his honor. The Gibbs free energy relates the tendency of a physical or chemical system to simultaneously lower its energy and increase its disorder, or entropy, in a spontaneous natural process. Gibbs's approach allows a researcher to calculate the change in free energy in the process, such as in a chemical reaction, and how fast it will happen. Since virtually all chemical processes and many physical ones involve such changes, his work has significantly impacted both the theoretical and experiential aspects of these sciences. In 1877, Ludwig Boltzmann established statistical derivations of many important physical and chemical concepts, including entropy, and distributions of molecular velocities in the gas phase.[84] Together with Boltzmann and James Clerk Maxwell, Gibbs created a new branch of theoretical physics called statistical mechanics (a term that he coined), explaining the laws of thermodynamics as consequences of the statistical properties of large ensembles of particles. Gibbs also worked on the application of Maxwell's equations to problems in physical optics. Gibbs's derivation of the phenomenological laws of thermodynamics from the statistical properties of systems with many particles was presented in his highly influential textbook Elementary Principles in Statistical Mechanics, published in 1902, a year before his death. In that work, Gibbs reviewed the relationship between the laws of thermodynamics and the statistical theory of molecular motions. The overshooting of the original function by partial sums of Fourier series at points of discontinuity is known as the Gibbs phenomenon.
+
+Late 19th century
+German engineer Carl von Linde's invention of a continuous process of liquefying gases in large quantities formed a basis for the modern technology of refrigeration and provided both impetus and means for conducting scientific research at low temperatures and very high vacuums. He developed a dimethyl ether refrigerator (1874) and an ammonia refrigerator (1876). Though other refrigeration units had been developed earlier, Linde's were the first to be designed with the aim of precise calculations of efficiency. In 1895 he set up a large-scale plant for the production of liquid air. Six years later he developed a method for separating pure liquid oxygen from liquid air that resulted in widespread industrial conversion to processes utilizing oxygen (e.g., in steel manufacture).
+
+In 1883, Svante Arrhenius developed an ion theory to explain conductivity in electrolytes.[85] In 1884, Jacobus Henricus van 't Hoff published Études de Dynamique chimique (Studies in Dynamic Chemistry), a seminal study on chemical kinetics.[86] In this work, van 't Hoff entered for the first time the field of physical chemistry. Of great importance was his development of the general thermodynamic relationship between the heat of conversion and the displacement of the equilibrium as a result of temperature variation. At constant volume, the equilibrium in a system will tend to shift in such a direction as to oppose the temperature change which is imposed upon the system. Thus, lowering the temperature results in heat development while increasing the temperature results in heat absorption. This principle of mobile equilibrium was subsequently (1885) put in a general form by Henry Louis Le Chatelier, who extended the principle to include compensation, by change of volume, for imposed pressure changes. The van 't Hoff-Le Chatelier principle, or simply Le Chatelier's principle, explains the response of dynamic chemical equilibria to external stresses.[87]
+
+In 1884, Hermann Emil Fischer proposed the structure of purine, a key structure in many biomolecules, which he later synthesized in 1898. He also began work on the chemistry of glucose and related sugars.[88] In 1885, Eugen Goldstein named the cathode ray, later discovered to be composed of electrons, and the canal ray, later discovered to be positive hydrogen ions that had been stripped of their electrons in a cathode ray tube; these would later be named protons.[89] The year 1885 also saw the publishing of J. H. van 't Hoff's L'Équilibre chimique dans les Systèmes gazeux ou dissous à I'État dilué (Chemical equilibria in gaseous systems or strongly diluted solutions), which dealt with this theory of dilute solutions. Here he demonstrated that the "osmotic pressure" in solutions which are sufficiently dilute is proportionate to the concentration and the absolute temperature so that this pressure can be represented by a formula that only deviates from the formula for gas pressure by a coefficient i. He also determined the value of i by various methods, for example by means of the vapor pressure and François-Marie Raoult's results on the lowering of the freezing point. Thus van 't Hoff was able to prove that thermodynamic laws are not only valid for gases, but also for dilute solutions. His pressure laws, given general validity by the electrolytic dissociation theory of Arrhenius (1884–1887) – the first foreigner who came to work with him in Amsterdam (1888) – are considered the most comprehensive and important in the realm of natural sciences. In 1893, Alfred Werner discovered the octahedral structure of cobalt complexes, thus establishing the field of coordination chemistry.[90]
+
+Ramsay's discovery of the noble gases
+Main articles: William Ramsay and Noble gas
+The most celebrated discoveries of Scottish chemist William Ramsay were made in inorganic chemistry. Ramsay was intrigued by the British physicist John Strutt, 3rd Baron Rayleigh's 1892 discovery that the atomic weight of nitrogen found in chemical compounds was lower than that of nitrogen found in the atmosphere. He ascribed this discrepancy to a light gas included in chemical compounds of nitrogen, while Ramsay suspected a hitherto undiscovered heavy gas in atmospheric nitrogen. Using two different methods to remove all known gases from air, Ramsay and Lord Rayleigh were able to announce in 1894 that they had found a monatomic, chemically inert gaseous element that constituted nearly 1 percent of the atmosphere; they named it argon.
+
+
+J.J. Thomson
+The following year, Ramsay liberated another inert gas from a mineral called cleveite; this proved to be helium, previously known only in the solar spectrum. In his book The Gases of the Atmosphere (1896), Ramsay showed that the positions of helium and argon in the periodic table of elements indicated that at least three more noble gases might exist. In 1898 Ramsay and the British chemist Morris W. Travers isolated these elements—called neon, krypton, and xenon—from air and brought them to a liquid state at low temperature and high pressure. Sir William Ramsay worked with Frederick Soddy to demonstrate, in 1903, that alpha particles (helium nuclei) were continually produced during the radioactive decay of a sample of radium. Ramsay was awarded the 1904 Nobel Prize for Chemistry in recognition of "services in the discovery of the inert gaseous elements in the air, and his determination of their place in the periodic system."
+
+In 1897, J. J. Thomson discovered the electron using the cathode ray tube. In 1898, Wilhelm Wien demonstrated that canal rays (streams of positive ions) can be deflected by magnetic fields and that the amount of deflection is proportional to the mass-to-charge ratio. This discovery would lead to the analytical technique known as mass spectrometry in 1912.[91]
+
+Marie and Pierre Curie
+
+Marie Curie, a pioneer in the field of radioactivity and the first twice-honored Nobel laureate (and still the only one in two different sciences)
+Main articles: Marie Curie, Pierre Curie, and Henri Becquerel
+Marie Skłodowska-Curie was a Polish-born French physicist and chemist who is famous for her pioneering research on radioactivity. She and her husband are considered to have laid the cornerstone of the nuclear age with their research on radioactivity. Marie was fascinated with the work of Henri Becquerel, a French physicist who discovered in 1896 that uranium casts off rays similar to the X-rays discovered by Wilhelm Röntgen. Marie Curie began studying uranium in late 1897 and theorized, according to a 1904 article she wrote for Century magazine, "that the emission of rays by the compounds of uranium is a property of the metal itself—that it is an atomic property of the element uranium independent of its chemical or physical state." Curie took Becquerel's work a few steps further, conducting her own experiments on uranium rays. She discovered that the rays remained constant, no matter the condition or form of the uranium. The rays, she theorized, came from the element's atomic structure. This revolutionary idea created the field of atomic physics and the Curies coined the word radioactivity to describe the phenomena.
+
+
+Pierre Curie, known for his work on radioactivity as well as on ferromagnetism, paramagnetism, and diamagnetism; notably Curie's law and Curie point.
+Pierre and Marie further explored radioactivity by working to separate the substances in uranium ores and then using the electrometer to make radiation measurements to 'trace' the minute amount of unknown radioactive element among the fractions that resulted. Working with the mineral pitchblende, the pair discovered a new radioactive element in 1898. They named the element polonium, after Marie's native country of Poland. On December 21, 1898, the Curies detected the presence of another radioactive material in the pitchblende. They presented this finding to the French Academy of Sciences on December 26, proposing that the new element be called radium. The Curies then went to work isolating polonium and radium from naturally occurring compounds to prove that they were new elements. In 1902, the Curies announced that they had produced a decigram of pure radium, demonstrating its existence as a unique chemical element. While it took three years for them to isolate radium, they were never able to isolate polonium. Along with the discovery of two new elements and finding techniques for isolating radioactive isotopes, Curie oversaw the world's first studies into the treatment of neoplasms, using radioactive isotopes. With Henri Becquerel and her husband, Pierre Curie, she was awarded the 1903 Nobel Prize for Physics. She was the sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize, and she is the only woman to win the award in two different fields.
+
+While working with Marie to extract pure substances from ores, an undertaking that really required industrial resources but that they achieved in relatively primitive conditions, Pierre himself concentrated on the physical study (including luminous and chemical effects) of the new radiations. Through the action of magnetic fields on the rays given out by the radium, he proved the existence of particles that were electrically positive, negative, and neutral; these Ernest Rutherford was afterward to call alpha, beta, and gamma rays. Pierre then studied these radiations by calorimetry and also observed the physiological effects of radium, thus opening the way to radium therapy. Among Pierre Curie's discoveries were that ferromagnetic substances exhibited a critical temperature transition, above which the substances lost their ferromagnetic behavior – this is known as the "Curie point." He was elected to the Academy of Sciences (1905), having in 1903 jointly with Marie received the Royal Society's prestigious Davy Medal and jointly with her and Becquerel the Nobel Prize for Physics. He was run over by a carriage in the rue Dauphine in Paris in 1906 and died instantly. His complete works were published in 1908.
+
+Ernest Rutherford
+
+Ernest Rutherford, discoverer of the nucleus and considered the father of nuclear physics
+New Zealand-born chemist and physicist Ernest Rutherford is considered to be "the father of nuclear physics." Rutherford is best known for devising the names alpha, beta, and gamma to classify various forms of radioactive "rays" which were poorly understood at his time (alpha and beta rays are particle beams, while gamma rays are a form of high-energy electromagnetic radiation). Rutherford deflected alpha rays with both electric and magnetic fields in 1903. Working with Frederick Soddy, Rutherford explained that radioactivity is due to the transmutation of elements, now known to involve nuclear reactions.
+
+
+Top: Predicted results based on the then-accepted plum pudding model of the atom. Bottom: Observed results. Rutherford disproved the plum pudding model and concluded that the positive charge of the atom must be concentrated in a small, central nucleus.
+He also observed that the intensity of radioactivity of a radioactive element decreases over a unique and regular amount of time until a point of stability, and he named the halving time the "half-life." In 1901 and 1902 he worked with Frederick Soddy to prove that atoms of one radioactive element would spontaneously turn into another, by expelling a piece of the atom at high velocity. In 1906 at the University of Manchester, Rutherford oversaw an experiment conducted by his students Hans Geiger (known for the Geiger counter) and Ernest Marsden. In the Geiger–Marsden experiment, a beam of alpha particles, generated by the radioactive decay of radon, was directed normally onto a sheet of very thin gold foil in an evacuated chamber. Under the prevailing plum pudding model, the alpha particles should all have passed through the foil and hit the detector screen, or have been deflected by, at most, a few degrees.
+
+However, the actual results surprised Rutherford. Although many of the alpha particles did pass through as expected, many others were deflected at small angles while others were reflected back to the alpha source. They observed that a very small percentage of particles were deflected through angles much larger than 90 degrees. The gold foil experiment showed large deflections for a small fraction of incident particles. Rutherford realized that, because some of the alpha particles were deflected or reflected, the atom had a concentrated centre of positive charge and of relatively large mass – Rutherford later termed this positive center the "atomic nucleus". The alpha particles had either hit the positive centre directly or passed by it close enough to be affected by its positive charge. Since many other particles passed through the gold foil, the positive centre would have to be a relatively small size compared to the rest of the atom – meaning that the atom is mostly open space. From his results, Rutherford developed a model of the atom that was similar to the solar system, known as the Rutherford model. Like planets, electrons orbited a central, sun-like nucleus. For his work with radiation and the atomic nucleus, Rutherford received the 1908 Nobel Prize in Chemistry.
+
+20th century
+
+The first Solvay Conference was held in Brussels in 1911 and was considered a turning point in the world of physics and chemistry.
+In 1903, Mikhail Tsvet invented chromatography, an important analytic technique. In 1904, Hantaro Nagaoka proposed an early nuclear model of the atom, where electrons orbit a dense massive nucleus. In 1905, Fritz Haber and Carl Bosch developed the Haber process for making ammonia, a milestone in industrial chemistry with deep consequences in agriculture. The Haber process, or Haber-Bosch process, combined nitrogen and hydrogen to form ammonia in industrial quantities for the production of fertilizer and munitions. The food production for half the world's current population depends on this method for producing fertilizer. Haber, along with Max Born, proposed the Born–Haber cycle as a method for evaluating the lattice energy of an ionic solid. Haber has also been described as the "father of chemical warfare" for his work developing and deploying chlorine and other poisonous gases during World War I.
+
+
+Robert A. Millikan, who is best known for measuring the charge on the electron, won the Nobel Prize in Physics in 1923.
+In 1905, Albert Einstein explained Brownian motion in a way that definitively proved atomic theory. Leo Baekeland invented bakelite, one of the first commercially successful plastics. In 1909, American physicist Robert Andrews Millikan – who had studied in Europe under Walther Nernst and Max Planck – measured the charge of individual electrons with unprecedented accuracy through the oil drop experiment, in which he measured the electric charges on tiny falling water (and later oil) droplets. His study established that any particular droplet's electrical charge is a multiple of a definite, fundamental value — the electron's charge — and thus a confirmation that all electrons have the same charge and mass. Beginning in 1912, he spent several years investigating and finally proving Albert Einstein's proposed linear relationship between energy and frequency, and providing the first direct photoelectric support for Planck's constant. In 1923 Millikan was awarded the Nobel Prize for Physics.
+
+In 1909, S. P. L. Sørensen invented the pH concept and developed methods for measuring acidity. In 1911, Antonius Van den Broek proposed the idea that the elements on the periodic table are more properly organized by positive nuclear charge rather than atomic weight. In 1911, the first Solvay Conference was held in Brussels, bringing together most of the most prominent scientists of the day. In 1912, William Henry Bragg and William Lawrence Bragg proposed Bragg's law and established the field of X-ray crystallography, an important tool for elucidating the crystal structure of substances. In 1912, Peter Debye used the concept of a molecular dipole to describe asymmetric charge distribution in some molecules.
+
+Otto Hahn
+
+Otto Hahn, father of nuclear fission and nuclear chemistry
+Otto Hahn was a German chemist and a pioneer in the fields of radioactivity and radiochemistry. He played a leading role in the discovery of nuclear fission and established nuclear chemistry as a scientic field. Hahn, Lise Meitner and Fritz Strassmann discovered radioactive isotopes of radium, thorium, protactinium and uranium. He also discovered the phenomena of atomic recoil and nuclear isomerism, and pioneered rubidium–strontium dating. In 1938, Hahn, Meitner and Strassmann discovered nuclear fission. In their second publication on nuclear fission in February of 1939, Hahn and Strassmann predicted the existence and liberation of additional neutrons during the fission process, opening up the possibility of a nuclear chain reaction. Hahn received the 1944 Nobel Prize for Chemistry for the discoveries. Nuclear fission was the basis for nuclear reactors and nuclear weapons.
+
+Niels Bohr
+
+Niels Bohr, the developer of the Bohr model of the atom, and a leading founder of quantum mechanics
+Main articles: Niels Bohr and Bohr model
+In 1913, Niels Bohr, a Danish physicist, introduced the concepts of quantum mechanics to atomic structure by proposing what is now known as the Bohr model of the atom, where electrons exist only in strictly defined circular orbits around the nucleus similar to rungs on a ladder. The Bohr Model is a planetary model in which the negatively charged electrons orbit a small, positively charged nucleus similar to the planets orbiting the Sun (except that the orbits are not planar) – the gravitational force of the solar system is mathematically akin to the attractive Coulomb (electrical) force between the positively charged nucleus and the negatively charged electrons.
+
+In the Bohr model, however, electrons orbit the nucleus in orbits that have a set size and energy – the energy levels are said to be quantized, which means that only certain orbits with certain radii are allowed; orbits in between simply don't exist. The energy of the orbit is related to its size – that is, the lowest energy is found in the smallest orbit. Bohr also postulated that electromagnetic radiation is absorbed or emitted when an electron moves from one orbit to another. Because only certain electron orbits are permitted, the emission of light accompanying a jump of an electron from an excited energy state to ground state produces a unique emission spectrum for each element. Bohr later received the Nobel Prize in physics for this work.
+
+Niels Bohr also worked on the principle of complementarity, which states that an electron can be interpreted in two mutually exclusive and valid ways. Electrons can be interpreted as wave or particle models. His hypothesis was that an incoming particle would strike the nucleus and create an excited compound nucleus. This formed the basis of his liquid drop model and later provided a theory base for nuclear fission after its discovery by chemists Otto Hahn and Fritz Strassman, and explanation and naming by physicists Lise Meitner and Otto Frisch.
+
+
+Moseley's Staircase
+In 1913, Henry Moseley, working from Van den Broek's earlier idea, introduced the concept of atomic number to fix some inadequacies of Mendeleev's periodic table, which had been based on atomic weight. The peak of Frederick Soddy's career in radiochemistry was in 1913 with his formulation of the concept of isotopes, which stated that certain elements exist in two or more forms which have different atomic weights but which are indistinguishable chemically. He is remembered for proving the existence of isotopes of certain radioactive elements, and is also credited, along with others, with the discovery of the element protactinium in 1917. In 1913, J. J. Thomson expanded on the work of Wien by showing that charged subatomic particles can be separated by their mass-to-charge ratio, a technique known as mass spectrometry.
+
+Gilbert N. Lewis
+Main article: Gilbert N. Lewis
+American physical chemist Gilbert N. Lewis laid the foundation of valence bond theory; he was instrumental in developing a bonding theory based on the number of electrons in the outermost "valence" shell of the atom. In 1902, while Lewis was trying to explain valence to his students, he depicted atoms as constructed of a concentric series of cubes with electrons at each corner. This "cubic atom" explained the eight groups in the periodic table and represented his idea that chemical bonds are formed by electron transference to give each atom a complete set of eight outer electrons (an "octet").
+
+Lewis's theory of chemical bonding continued to evolve and, in 1916, he published his seminal article "The Atom of the Molecule", which suggested that a chemical bond is a pair of electrons shared by two atoms. Lewis's model equated the classical chemical bond with the sharing of a pair of electrons between the two bonded atoms. Lewis introduced the "electron dot diagrams" in this paper to symbolize the electronic structures of atoms and molecules. Now known as Lewis structures, they are discussed in virtually every introductory chemistry book.
+
+Shortly after the publication of his 1916 paper, Lewis became involved with military research. He did not return to the subject of chemical bonding until 1923, when he masterfully summarized his model in a short monograph entitled Valence and the Structure of Atoms and Molecules. His renewal of interest in this subject was largely stimulated by the activities of the American chemist and General Electric researcher Irving Langmuir, who between 1919 and 1921 popularized and elaborated Lewis's model. Langmuir subsequently introduced the term covalent bond. In 1921, Otto Stern and Walther Gerlach established the concept of quantum mechanical spin in subatomic particles.
+
+For cases where no sharing was involved, Lewis in 1923 developed the electron pair theory of acids and base: Lewis redefined an acid as any atom or molecule with an incomplete octet that was thus capable of accepting electrons from another atom; bases were, of course, electron donors. His theory is known as the concept of Lewis acids and bases. In 1923, G. N. Lewis and Merle Randall published Thermodynamics and the Free Energy of Chemical Substances, first modern treatise on chemical thermodynamics.
+
+The 1920s saw a rapid adoption and application of Lewis's model of the electron-pair bond in the fields of organic and coordination chemistry. In organic chemistry, this was primarily due to the efforts of the British chemists Arthur Lapworth, Robert Robinson, Thomas Lowry, and Christopher Ingold; while in coordination chemistry, Lewis's bonding model was promoted through the efforts of the American chemist Maurice Huggins and the British chemist Nevil Sidgwick.
+
+Quantum mechanics
+Quantum mechanics in the 1920s
+Broglie Big.jpgPauli.jpg
+Erwin Schrödinger (1933).jpgWerner Heisenberg cropped.jpg
+From left to right, top row: Louis de Broglie (1892–1987) and Wolfgang Pauli (1900–58); second row: Erwin Schrödinger (1887–1961) and Werner Heisenberg (1901–76)
+Main articles: Louis de Broglie, Wolfgang Pauli, Erwin Schrödinger, and Werner Heisenberg
+In 1924, French quantum physicist Louis de Broglie published his thesis, in which he introduced a revolutionary theory of electron waves based on wave–particle duality. In his time, the wave and particle interpretations of light and matter were seen as being at odds with one another, but de Broglie suggested that these seemingly different characteristics were instead the same behavior observed from different perspectives — that particles can behave like waves, and waves (radiation) can behave like particles. Broglie's proposal offered an explanation of the restricted motion of electrons within the atom. The first publications of Broglie's idea of "matter waves" had drawn little attention from other physicists, but a copy of his doctoral thesis chanced to reach Einstein, whose response was enthusiastic. Einstein stressed the importance of Broglie's work both explicitly and by building further on it.
+
+In 1925, Austrian-born physicist Wolfgang Pauli developed the Pauli exclusion principle, which states that no two electrons around a single nucleus in an atom can occupy the same quantum state simultaneously, as described by four quantum numbers. Pauli made major contributions to quantum mechanics and quantum field theory – he was awarded the 1945 Nobel Prize for Physics for his discovery of the Pauli exclusion principle – as well as solid-state physics, and he successfully hypothesized the existence of the neutrino. In addition to his original work, he wrote masterful syntheses of several areas of physical theory that are considered classics of scientific literature.
+
+�
+(
+�
+)
+|
+�
+(
+�
+)
+⟩
+=
+�
+ℏ
+�
+�
+�
+|
+�
+(
+�
+)
+⟩{\displaystyle H(t)|\psi (t)\rangle =i\hbar {\frac {d}{dt}}|\psi (t)\rangle }
+The Schrödinger equation
+In 1926 at the age of 39, Austrian theoretical physicist Erwin Schrödinger produced the papers that gave the foundations of quantum wave mechanics. In those papers he described his partial differential equation that is the basic equation of quantum mechanics and bears the same relation to the mechanics of the atom as Newton's equations of motion bear to planetary astronomy. Adopting a proposal made by Louis de Broglie in 1924 that particles of matter have a dual nature and in some situations act like waves, Schrödinger introduced a theory describing the behaviour of such a system by a wave equation that is now known as the Schrödinger equation. The solutions to Schrödinger's equation, unlike the solutions to Newton's equations, are wave functions that can only be related to the probable occurrence of physical events. The readily visualized sequence of events of the planetary orbits of Newton is, in quantum mechanics, replaced by the more abstract notion of probability. (This aspect of the quantum theory made Schrödinger and several other physicists profoundly unhappy, and he devoted much of his later life to formulating philosophical objections to the generally accepted interpretation of the theory that he had done so much to create.)
+
+German theoretical physicist Werner Heisenberg was one of the key creators of quantum mechanics. In 1925, Heisenberg discovered a way to formulate quantum mechanics in terms of matrices. For that discovery, he was awarded the Nobel Prize for Physics for 1932. In 1927 he published his uncertainty principle, upon which he built his philosophy and for which he is best known. Heisenberg was able to demonstrate that if you were studying an electron in an atom you could say where it was (the electron's location) or where it was going (the electron's velocity), but it was impossible to express both at the same time. He also made important contributions to the theories of the hydrodynamics of turbulent flows, the atomic nucleus, ferromagnetism, cosmic rays, and subatomic particles, and he was instrumental in planning the first West German nuclear reactor at Karlsruhe, together with a research reactor in Munich, in 1957. Considerable controversy surrounds his work on atomic research during World War II.
+
+Quantum chemistry
+Main article: Quantum chemistry
+Some view the birth of quantum chemistry in the discovery of the Schrödinger equation and its application to the hydrogen atom in 1926.[citation needed] However, the 1927 article of Walter Heitler and Fritz London[92] is often recognised as the first milestone in the history of quantum chemistry. This is the first application of quantum mechanics to the diatomic hydrogen molecule, and thus to the phenomenon of the chemical bond. In the following years much progress was accomplished by Edward Teller, Robert S. Mulliken, Max Born, J. Robert Oppenheimer, Linus Pauling, Erich Hückel, Douglas Hartree and Vladimir Aleksandrovich Fock, to cite a few.[citation needed]
+
+Still, skepticism remained as to the general power of quantum mechanics applied to complex chemical systems.[citation needed] The situation around 1930 is described by Paul Dirac:[93]
+
+The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that the exact application of these laws leads to equations much too complicated to be soluble. It therefore becomes desirable that approximate practical methods of applying quantum mechanics should be developed, which can lead to an explanation of the main features of complex atomic systems without too much computation.
+
+Hence the quantum mechanical methods developed in the 1930s and 1940s are often referred to as theoretical molecular or atomic physics to underline the fact that they were more the application of quantum mechanics to chemistry and spectroscopy than answers to chemically relevant questions. In 1951, a milestone article in quantum chemistry is the seminal paper of Clemens C. J. Roothaan on Roothaan equations.[94] It opened the avenue to the solution of the self-consistent field equations for small molecules like hydrogen or nitrogen. Those computations were performed with the help of tables of integrals which were computed on the most advanced computers of the time.[citation needed]
+
+In the 1940s many physicists turned from molecular or atomic physics to nuclear physics (like J. Robert Oppenheimer or Edward Teller). Glenn T. Seaborg was an American nuclear chemist best known for his work on isolating and identifying transuranium elements (those heavier than uranium). He shared the 1951 Nobel Prize for Chemistry with Edwin Mattison McMillan for their independent discoveries of transuranium elements. Seaborgium was named in his honour, making him the only person, along with Albert Einstein and Yuri Oganessian, for whom a chemical element was named during his lifetime.
+
+Molecular biology and biochemistry
+Main articles: History of molecular biology and History of biochemistry
+By the mid 20th century, in principle, the integration of physics and chemistry was extensive, with chemical properties explained as the result of the electronic structure of the atom; Linus Pauling's book on The Nature of the Chemical Bond used the principles of quantum mechanics to deduce bond angles in ever-more complicated molecules. However, though some principles deduced from quantum mechanics were able to predict qualitatively some chemical features for biologically relevant molecules, they were, till the end of the 20th century, more a collection of rules, observations, and recipes than rigorous ab initio quantitative methods.[citation needed]
+
+
+Diagrammatic representation of some key structural features of DNA
+This heuristic approach triumphed in 1953 when James Watson and Francis Crick deduced the double helical structure of DNA by constructing models constrained by and informed by the knowledge of the chemistry of the constituent parts and the X-ray diffraction patterns obtained by Rosalind Franklin.[95] This discovery lead to an explosion of research into the biochemistry of life.
+
+In the same year, the Miller–Urey experiment demonstrated that basic constituents of protein, simple amino acids, could themselves be built up from simpler molecules in a simulation of primordial processes on Earth. This first attempt by chemists to study hypothetical processes in the laboratory under controlled conditions helped kickstart bountiful research, within the natural sciences, into the origins of life.
+
+In 1983 Kary Mullis devised a method for the in-vitro amplification of DNA, known as the polymerase chain reaction (PCR), which revolutionized the chemical processes used in the laboratory to manipulate it. PCR could be used to synthesize specific pieces of DNA and made possible the sequencing of DNA of organisms, which culminated in the huge human genome project.
+
+An important piece in the double helix puzzle was solved by one of Pauling's students Matthew Meselson and Frank Stahl, the result of their collaboration (Meselson–Stahl experiment) has been called as "the most beautiful experiment in biology".
+
+They used a centrifugation technique that sorted molecules according to differences in weight. Because nitrogen atoms are a component of DNA, they were labelled and therefore tracked in replication in bacteria.
+
+Late 20th century
+
+Buckminsterfullerene, C60
+In 1970, John Pople developed the Gaussian program greatly easing computational chemistry calculations.[96] In 1971, Yves Chauvin offered an explanation of the reaction mechanism of olefin metathesis reactions.[97] In 1975, Karl Barry Sharpless and his group discovered stereoselective oxidation reactions including Sharpless epoxidation,[98][99] Sharpless asymmetric dihydroxylation,[100][101][102] and Sharpless oxyamination.[103][104][105] In 1985, Harold Kroto, Robert Curl and Richard Smalley discovered fullerenes, a class of large carbon molecules superficially resembling the geodesic dome designed by architect R. Buckminster Fuller.[106] In 1991, Sumio Iijima used electron microscopy to discover a type of cylindrical fullerene known as a carbon nanotube, though earlier work had been done in the field as early as 1951. This material is an important component in the field of nanotechnology.[107] In 1994, K. C. Nicolaou with his group [108][109] and Robert A. Holton and his group, achieved the first total synthesis of Taxol.[110][111][112] In 1995, Eric Cornell and Carl Wieman produced the first Bose–Einstein condensate, a substance that displays quantum mechanical properties on the macroscopic scale.[113]
+
+Mathematics and chemistry
+Before the 20th century, chemistry was defined as the science of the nature of matter and its transformations. It was therefore distinct from physics which was not concerned with such dramatic transformation of matter. Moreover, in contrast to physics, chemistry remained predominantly a descriptive and empirical science until the end of the 19th century. Though they developed a consistent quantitative foundation based on notions of atomic and molecular weights, combining proportions, and thermodynamic quantities, chemists had less use of advanced mathematics.[114] Some even expressed reluctance about the use of mathematics within chemistry. For example, the philosopher Auguste Comte wrote in 1830:
+
+Every attempt to employ mathematical methods in the study of chemical questions must be considered profoundly irrational and contrary to the spirit of chemistry.... if mathematical analysis should ever hold a prominent place in chemistry – an aberration which is happily almost impossible – it would occasion a rapid and widespread degeneration of that science.
+
+However, in the second part of the 19th century, the situation began to change as August Kekulé wrote in 1867:
+
+I rather expect that we shall someday find a mathematico-mechanical explanation for what we now call atoms which will render an account of their properties.
+
+Scope of chemistry
+As understanding of the nature of matter has evolved, so too has the self-understanding of the science of chemistry by its practitioners. This continuing historical process of evaluation includes the categories, terms, aims and scope of chemistry. Additionally, the development of the social institutions and networks which support chemical enquiry are highly significant factors that enable the production, dissemination and application of chemical knowledge. (See Philosophy of chemistry)
+
+Chemical industry
+Main article: Chemical industry
+The later part of the nineteenth century saw a huge increase in the exploitation of petroleum extracted from the earth for the production of a host of chemicals and largely replaced the use of whale oil, coal tar and naval stores used previously. Large-scale production and refinement of petroleum provided feedstocks for liquid fuels such as gasoline and diesel, solvents, lubricants, asphalt, waxes, and for the production of many of the common materials of the modern world, such as synthetic fibers, plastics, paints, detergents, pharmaceuticals, adhesives and ammonia as fertilizer and for other uses. Many of these required new catalysts and the utilization of chemical engineering for their cost-effective production.
+
+In the mid-twentieth century, control of the electronic structure of semiconductor materials was made precise by the creation of large ingots of extremely pure single crystals of silicon and germanium. Accurate control of their chemical composition by doping with other elements made the production of the solid state transistor in 1951 and made possible the production of tiny integrated circuits for use in electronic devices, especially computers.
+
+See also
+Histories and timelines
+Atomic theory
+Cupellation
+History of chromatography
+History of electrochemistry
+History of the molecule
+History of molecular biology
+History of physics
+History of science and technology
+History of the periodic table
+History of thermodynamics
+History of energy
+History of molecular theory
+History of materials science
+List of years in science
+Nobel Prize in chemistry
+Timeline of atomic and subatomic physics
+Timeline of chemical elements discoveries
+Timeline of chemistry
+Timeline of materials technology
+Timeline of thermodynamics, statistical mechanics, and random processes
+The Chemical History of a Candle
+The Mystery of Matter: Search for the Elements (PBS film)
+Notable chemists
+listed chronologically:
+
+List of chemists
+Robert Boyle, 1627–1691
+Joseph Black, 1728–1799
+Joseph Priestley, 1733–1804
+Carl Wilhelm Scheele, 1742–1786
+Antoine Lavoisier, 1743–1794
+Alessandro Volta, 1745–1827
+Jacques Charles, 1746–1823
+Claude Louis Berthollet, 1748–1822
+Amedeo Avogadro, 1776–1856
+Joseph-Louis Gay-Lussac, 1778–1850
+Humphry Davy, 1778–1829
+Jöns Jacob Berzelius, inventor of modern chemical notation, 1779–1848
+Justus von Liebig, 1803–1873
+Louis Pasteur, 1822–1895
+Stanislao Cannizzaro, 1826–1910
+Friedrich August Kekulé von Stradonitz, 1829–1896
+Dmitri Mendeleev, 1834–1907
+Josiah Willard Gibbs, 1839–1903
+J. H. van 't Hoff, 1852–1911
+William Ramsay, 1852–1916
+Svante Arrhenius, 1859–1927
+Walther Nernst, 1864–1941
+Marie Curie, 1867–1934
+Gilbert N. Lewis, 1875–1946
+Otto Hahn, 1879–1968
+Irving Langmuir, 1881–1957
+Linus Pauling, 1901–1994
+Glenn T. Seaborg, 1912–1999
+Robert Burns Woodward, 1917–1979
+Frederick Sanger, 1918–2013
+Geoffrey Wilkinson, 1921–1996
+Rudolph A. Marcus, 1923–
+George Andrew Olah, 1926–2017
+Elias James Corey, 1928–
+Akira Suzuki, 1930–
+Richard F. Heck, 1931–2015
+Harold Kroto, 1939–2016
+Jean-Marie Lehn, 1939–
+Peter Atkins, 1940–
+Barry Sharpless, 1941–
+Richard Smalley, 1943–2005
+Jean-Pierre Sauvage, 1944–
+Notes
+ Selected Classic Papers from the History of Chemistry
+ Henshilwood, C. S.; d'Errico, F.; Van Niekerk, K. L.; Coquinot, Y.; Jacobs, Z.; Lauritzen, S. E.; Menu, M.; García-Moreno, R. (2011-10-15). "A 100,000-year-old ochre-processing workshop at Blombos Cave, South Africa". Science. 334 (6053): 219–22. Bibcode:2011Sci...334..219H. doi:10.1126/science.1211535. PMID 21998386. S2CID 40455940.
+ Corbyn, Zoë (2011-10-13). "African cave's ancient ochre lab". Nature News. doi:10.1038/news.2011.590. Retrieved 2018-10-04.
+ "History of Gold". Gold Digest. Retrieved 2007-02-04.
+ Photos, E., 'The Question of Meteorictic versus Smelted Nickel-Rich Iron: Archaeological Evidence and Experimental Results' World Archaeology Vol. 20, No. 3, Archaeometallurgy (February 1989), pp. 403–421. Online version accessed on 2010-02-08.
+ W. Keller (1963) The Bible as History, p. 156 ISBN 0-340-00312-X
+ "THE ORIGINS OF GLASSMAKING". Corning Museum of Glass. December 2011.
+ Radivojević, Miljana; Roberts, Benjamin W. (2021). "Early Balkan Metallurgy: Origins, Evolution and Society, 6200–3700 BC". Journal of World Prehistory. 34 (2): 195–278. doi:10.1007/s10963-021-09155-7. S2CID 237005605.
+ Radivojević, Miljana; Rehren, Thilo; Pernicka, Ernst; Šljivar, Dušan; Brauns, Michael; Borić, Dušan (2010). "On the origins of extractive metallurgy: New evidence from Europe". Journal of Archaeological Science. 37 (11): 2775. doi:10.1016/j.jas.2010.06.012.
+ Neolithic Vinca was a metallurgical culture Archived 2017-09-19 at the Wayback Machine Stonepages from news sources November 2007
+ Will Durant wrote in The Story of Civilization I: Our Oriental Heritage:
+"Something has been said about the chemical excellence of cast iron in ancient India, and about the high industrial development of the Gupta times, when India was looked to, even by Imperial Rome, as the most skilled of the nations in such chemical industries as dyeing, tanning, soap-making, glass and cement... By the sixth century the Hindus were far ahead of Europe in industrial chemistry; they were masters of calcinations, distillation, sublimation, steaming, fixation, the production of light without heat, the mixing of anesthetic and soporific powders, and the preparation of metallic salts, compounds and alloys. The tempering of steel was brought in ancient India to a perfection unknown in Europe till our own times; King Porus is said to have selected, as a specially valuable gift from Alexander, not gold or silver, but thirty pounds of steel. The Moslems took much of this Hindu chemical science and industry to the Near East and Europe; the secret of manufacturing "Damascus" blades, for example, was taken by the Arabs from the Persians, and by the Persians from India."
+
+ B. W. Anderson (1975) The Living World of the Old Testament, p. 154, ISBN 0-582-48598-3
+ R. F. Tylecote (1992) A History of Metallurgy ISBN 0-901462-88-8
+ Temple, Robert K.G. (2007). The Genius of China: 3,000 Years of Science, Discovery, and Invention (3rd edition). London: André Deutsch. pp. 44–56. ISBN 978-0-233-00202-6.
+ Will Durant (1935), Our Oriental Heritage:
+"Two systems of Hindu thought propound physical theories suggestively similar to those of Greece. Kanada, founder of the Vaisheshika philosophy, held that the world was composed of atoms as many in kind as the various elements. The Jains more nearly approximated to Democritus by teaching that all atoms were of the same kind, producing different effects by diverse modes of combinations. Kanada believed light and heat to be varieties of the same substance; Udayana taught that all heat comes from the sun; and Vachaspati, like Newton, interpreted light as composed of minute particles emitted by substances and striking the eye."
+
+ Simpson, David (29 June 2005). "Lucretius (c. 99 – c. 55 BCE)". The Internet History of Philosophy. Retrieved 2007-01-09.
+ Lucretius. "de Rerum Natura (On the Nature of Things)". The Internet Classics Archive. Massachusetts Institute of Technology. Retrieved 2007-01-09.
+ Holmyard, E.J. (1957). Alchemy. New York: Dover, 1990. pp. 48, 49.
+ Stanton J. Linden. The alchemy reader: from Hermes Trismegistus to Isaac Newton Cambridge University Press. 2003. p.44
+ Norris, John A. (2006). "The Mineral Exhalation Theory of Metallogenesis in Pre-Modern Mineral Science". Ambix. 53: 43–65. doi:10.1179/174582306X93183. S2CID 97109455.
+ Clulee, Nicholas H. (1988). John Dee's Natural Philosophy. Routledge. p. 97. ISBN 978-0-415-00625-5.
+ Strathern, 2000. Page 79.
+ Holmyard, E.J. (1957). Alchemy. New York: Dover, 1990. pp. 15, 16.
+ William Royall Newman. Atoms and Alchemy: Chymistry and the experimental origins of the scientific revolution. University of Chicago Press, 2006. p.xi
+ The History of Ancient Chemistry Archived 2015-03-04 at the Wayback Machine
+ Stapleton, Henry E.; Azo, R.F.; Hidayat Husain, M. (1927). "Chemistry in Iraq and Persia in the Tenth Century A.D." Memoirs of the Asiatic Society of Bengal. VIII (6): 317–418. OCLC 706947607. pp. 338–340; Kraus, Paul (1942–1943). Jâbir ibn Hayyân: Contribution à l'histoire des idées scientifiques dans l'Islam. I. Le corpus des écrits jâbiriens. II. Jâbir et la science grecque. Cairo: Institut Français d'Archéologie Orientale. ISBN 978-3-487-09115-0. OCLC 468740510. vol. II, pp. 41–42.
+ Darmstaedter, Ernst. "Liber Misericordiae Geber: Eine lateinische Übersetzung des gröβeren Kitâb l-raḥma", Archiv für Geschichte der Medizin, 17/4, 1925, pp. 181–197; Berthelot, Marcellin. "Archéologie et Histoire des sciences", Mémoires de l’Académie des sciences de l’Institut de France, 49, 1906, pp. 308–363; see also Forster, Regula. "Jābir b. Ḥayyān", Encyclopaedia of Islam, Three.
+ Newman, William R. "New Light on the Identity of Geber", Sudhoffs Archiv, 1985, 69, pp. 76–90; Newman, William R. The Summa perfectionis of Pseudo-Geber: A critical edition, translation and study, Leiden: Brill, 1991, pp. 57–103. It has been argued by Ahmad Y. Al-Hassan that the pseudo-Geber works were actually translated into Latin from the Arabic (see Al-Hassan, Ahmad Y. "The Arabic Origin of the Summa and Geber Latin Works: A Refutation of Berthelot, Ruska, and Newman Based on Arabic Sources", in: Ahmad Y. Al-Hassan. Studies in al-Kimya': Critical Issues in Latin and Arabic Alchemy and Chemistry. Hildesheim: Georg Olms Verlag, 2009, pp. 53–104; also available online).
+ Marmura, Michael E.; Nasr, Seyyed Hossein (1965). "An Introduction to Islamic Cosmological Doctrines. Conceptions of Nature and Methods Used for Its Study by the Ikhwan Al-Safa'an, Al-Biruni, and Ibn Sina by Seyyed Hossein Nasr". Speculum. 40 (4): 744–746. doi:10.2307/2851429. JSTOR 2851429.
+ Robert Briffault (1938). The Making of Humanity, pp. 196–197.
+ Brock, William H. (1992). The Fontana History of Chemistry. London, England: Fontana Press. pp. 32–33. ISBN 978-0-00-686173-7.
+ Brock, William H. (1992). The Fontana History of Chemistry. London, England: Fontana Press. ISBN 978-0-00-686173-7.
+ Karl Alfred von Zittel (1901) History of Geology and Palaeontology, p. 15
+ Asarnow, Herman (2005-08-08). "Sir Francis Bacon: Empiricism". An Image-Oriented Introduction to Backgrounds for English Renaissance Literature. University of Portland. Archived from the original on 2007-02-01. Retrieved 2007-02-22.
+ Crosland, M.P. (1959). "The use of diagrams as chemical 'equations' in the lectures of William Cullen and Joseph Black." Annals of Science, Vol 15, No. 2, June
+ "Robert Boyle". Archived from the original on 2013-12-03. Retrieved 2008-11-04.
+ Acott, Chris (1999). "The diving "Law-ers": A brief resume of their lives". South Pacific Underwater Medicine Society Journal. 29 (1). ISSN 0813-1988. OCLC 16986801. Archived from the original on April 2, 2011. Retrieved 17 April 2009.
+ Levine, Ira. N (1978). "Physical Chemistry" University of Brooklyn: McGraw-Hill
+ Levine, Ira. N. (1978), p12 gives the original definition.
+ Principe, L. (2011). "In retrospect: The Sceptical Chymist". Nature. 469 (7328): 30–31. Bibcode:2011Natur.469...30P. doi:10.1038/469030a. ISSN 1476-4687. S2CID 6490305.
+ Ursula Klein (July 2007). "Styles of Experimentation and Alchemical Matter Theory in the Scientific Revolution". Metascience. 16 (2): 247–256 [247]. doi:10.1007/s11016-007-9095-8. ISSN 1467-9981. S2CID 170194372.
+ Nordisk familjebok – Cronstedt: "den moderna mineralogiens och geognosiens grundläggare" = "the modern mineralogy's and geognosie's founder"
+ Cooper, Alan (1999). "Joseph Black". History of Glasgow University Chemistry Department. University of Glasgow Department of Chemistry. Archived from the original on 2006-04-10. Retrieved 2006-02-23.
+ Seyferth, Dietmar (2001). "Cadet's Fuming Arsenical Liquid and the Cacodyl Compounds of Bunsen". Organometallics. 20 (8): 1488–1498. doi:10.1021/om0101947.
+ Partington, J.R. (1989). A Short History of Chemistry. Dover Publications, Inc. ISBN 978-0-486-65977-0.
+ Kuhn, 53–60; Schofield (2004), 112–13. The difficulty in precisely defining the time and place of the "discovery" of oxygen, within the context of the developing chemical revolution, is one of Thomas Kuhn's central illustrations of the gradual nature of paradigm shifts in The Structure of Scientific Revolutions.
+ "Joseph Priestley". Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005. {{cite web}}: Missing or empty |url= (help)
+ "Carl Wilhelm Scheele". History of Gas Chemistry. Center for Microscale Gas Chemistry, Creighton University. 2005-09-11. Retrieved 2007-02-23.
+ Saunders, Nigel (2004). Tungsten and the Elements of Groups 3 to 7 (The Periodic Table). Chicago: Heinemann Library. ISBN 978-1-4034-3518-7.
+ "ITIA Newsletter" (PDF). International Tungsten Industry Association. June 2005. Archived from the original (PDF) on July 21, 2011. Retrieved 2008-06-18.
+ "ITIA Newsletter" (PDF). International Tungsten Industry Association. December 2005. Archived from the original (PDF) on July 21, 2011. Retrieved 2008-06-18.
+ Mottelay, Paul Fleury (2008). Bibliographical History of Electricity and Magnetism (Reprint of 1892 ed.). Read Books. p. 247. ISBN 978-1-4437-2844-7.
+ "Inventor Alessandro Volta Biography". The Great Idea Finder. The Great Idea Finder. 2005. Retrieved 2007-02-23.
+ Lavoisier, Antoine (1743–1794) -- from Eric Weisstein's World of Scientific Biography, ScienceWorld
+ "Famous Scientists - Marie-Anne Lavoisier". Archived from the original on 2015-04-17. Retrieved 2015-04-15.
+ Pullman, Bernard (2004). The Atom in the History of Human Thought. The Atom in the History of Human Thought. Reisinger, Axel. USA: Oxford University Press Inc. Bibcode:1998ahht.book.....P. ISBN 978-0-19-511447-8.
+ "John Dalton". Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005. {{cite web}}: Missing or empty |url= (help)
+ "Proust, Joseph Louis (1754–1826)". 100 Distinguished Chemists. European Association for Chemical and Molecular Science. 2005. Archived from the original on 2008-05-15. Retrieved 2007-02-23.
+ Enghag, P. (2004). "11. Sodium and Potassium". Encyclopedia of the elements. Wiley-VCH Weinheim. ISBN 978-3-527-30666-4.
+ Davy, Humphry (1808). "On some new Phenomena of Chemical Changes produced by Electricity, particularly the Decomposition of the fixed Alkalies, and the Exhibition of the new Substances, which constitute their Bases". Philosophical Transactions of the Royal Society of London. 98: 1–45. doi:10.1098/rstl.1808.0001.
+ Weeks, Mary Elvira (1933). "XII. Other Elements Isolated with the Aid of Potassium and Sodium: Beryllium, Boron, Silicon and Aluminum". The Discovery of the Elements. Easton, Pennsylvania: Journal of Chemical Education. ISBN 978-0-7661-3872-8.
+ Robert E. Krebs (2006). The history and use of our earth's chemical elements: a reference guide. Greenwood Publishing Group. p. 80. ISBN 978-0-313-33438-2.
+ Sir Humphry Davy (1811). "On a Combination of Oxymuriatic Gas and Oxygene Gas". Philosophical Transactions of the Royal Society. 101: 155–162. doi:10.1098/rstl.1811.0008.
+ Gay-Lussac, J. L. (1802), "Recherches sur la dilatation des gaz et des vapeurs" [Researches on the expansion of gases and vapors], Annales de Chimie, 43: 137–175. English translation (extract).
+On page 157, Gay-Lussac mentions the unpublished findings of Charles: "Avant d'aller plus loin, je dois prévenir que quoique j'eusse reconnu un grand nombre de fois que les gaz oxigène, azote, hydrogène et acide carbonique, et l'air atmosphérique se dilatent également depuis 0° jusqu'a 80°, le cit. Charles avait remarqué depuis 15 ans la même propriété dans ces gaz ; mais n'avant jamais publié ses résultats, c'est par le plus grand hasard que je les ai connus." (Before going further, I should inform [you] that although I had recognized many times that the gases oxygen, nitrogen, hydrogen, and carbonic acid [i.e., carbon dioxide], and atmospheric air also expand from 0° to 80°, citizen Charles had noticed 15 years ago the same property in these gases; but having never published his results, it is by the merest chance that I knew of them.)
+ J. Dalton (1802) "Essay IV. On the expansion of elastic fluids by heat," Memoirs of the Literary and Philosophical Society of Manchester, vol. 5, pt. 2, pages 595-602.
+ "Joseph-Louis Gay-Lussac – Chemistry Encyclopedia – gas, number".
+ Courtois, Bernard (1813). "Découverte d'une substance nouvelle dans le Vareck". Annales de chimie. 88: 304. In French, seaweed that had been washed onto the shore was called "varec", "varech", or "vareck", whence the English word "wrack". Later, "varec" also referred to the ashes of such seaweed: The ashes were used as a source of iodine and salts of sodium and potassium.
+ Swain, Patricia A. (2005). "Bernard Courtois (1777–1838) famed for discovering iodine (1811), and his life in Paris from 1798" (PDF). Bulletin for the History of Chemistry. 30 (2): 103. Archived from the original (PDF) on 2010-07-14. Retrieved 2013-06-14.
+ Gay-Lussac, J. (1813). "Sur un nouvel acide formé avec la substance décourverte par M. Courtois". Annales de Chimie. 88: 311.
+ Gay-Lussac, J. (1813). "Sur la combination de l'iode avec d'oxigène". Annales de Chimie. 88: 319.
+ Gay-Lussac, J. (1814). "Mémoire sur l'iode". Annales de Chimie. 91: 5.
+ Davy, H. (1813). "Sur la nouvelle substance découverte par M. Courtois, dans le sel de Vareck". Annales de Chimie. 88: 322.
+ Davy, Humphry (January 1, 1814). "Some Experiments and Observations on a New Substance Which Becomes a Violet Coloured Gas by Heat". Phil. Trans. R. Soc. Lond. 104: 74. doi:10.1098/rstl.1814.0007.
+ David Knight, ‘Davy, Sir Humphry, baronet (1778–1829)’, Oxford Dictionary of National Biography, Oxford University Press, 2004 accessed 6 April 2008
+ "V. Markovnikov". natsci.parkland.edu. Retrieved 2022-11-29.
+ Beller, Matthias; Seayad, Jayasree; Tillack, Annegret; Jiao, Haijun (2004-06-28). "Catalytic Markovnikov and anti-Markovnikov Functionalization of Alkenes and Alkynes: Recent Developments and Trends". Angewandte Chemie International Edition. 43 (26): 3368–3398. doi:10.1002/anie.200300616. ISSN 1433-7851. PMID 15221826.
+ Hughes, Peter (2006). "Was Markovnikov's Rule an Inspired Guess?". Journal of Chemical Education. 83 (8): 1152. doi:10.1021/ed083p1152. ISSN 0021-9584.
+ "History of Chirality". Stheno Corporation. 2006. Archived from the original on 2007-03-07. Retrieved 2007-03-12.
+ "Lambert-Beer Law". Sigrist-Photometer AG. 2007-03-07. Retrieved 2007-03-12.
+ "Benjamin Silliman, Jr. (1816–1885)". Picture History. Picture History LLC. 2003. Archived from the original on 2007-07-07. Retrieved 2007-03-24.
+ Moore, F. J. (1931). A History of Chemistry. McGraw-Hill. pp. 182–1184. ISBN 978-0-07-148855-6. (2nd edition)
+ "Jacobus Henricus van't Hoff". Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005. {{cite web}}: Missing or empty |url= (help)
+ O'Connor, J. J.; Robertson, E.F. (1997). "Josiah Willard Gibbs". MacTutor. School of Mathematics and Statistics University of St Andrews, Scotland. Retrieved 2007-03-24.
+ Weisstein, Eric W. (1996). "Boltzmann, Ludwig (1844–1906)". Eric Weisstein's World of Scientific Biography. Wolfram Research Products. Retrieved 2007-03-24.
+ "Svante August Arrhenius". Chemical Achievers: The Human Face of Chemical Sciences. Chemical Heritage Foundation. 2005. {{cite web}}: Missing or empty |url= (help)
+ "Jacobus H. van 't Hoff: The Nobel Prize in Chemistry 1901". Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966. Retrieved 2007-02-28.
+ Henry Louis Le Châtelier. World of Scientific Discovery. Thomson Gale. 2005. Retrieved 2007-03-24.
+ "Emil Fischer: The Nobel Prize in Chemistry 1902". Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966. Retrieved 2007-02-28.
+ "History of Chemistry". Intensive General Chemistry. Columbia University Department of Chemistry Undergraduate Program. Retrieved 2007-03-24.
+ "Alfred Werner: The Nobel Prize in Chemistry 1913". Nobel Lectures, Chemistry 1901–1921. Elsevier Publishing Company. 1966. Retrieved 2007-03-24.
+ "Alfred Werner: The Nobel Prize in Physics 1911". Nobel Lectures, Physics 1901–1921. Elsevier Publishing Company. 1967. Retrieved 2007-03-24.
+ W. Heitler and F. London, Wechselwirkung neutraler Atome und Homöopolare Bindung nach der Quantenmechanik, Z. Physik, 44, 455 (1927).
+ P.A.M. Dirac, Quantum Mechanics of Many-Electron Systems, Proc. R. Soc. London, A 123, 714 (1929).
+ C.C.J. Roothaan, A Study of Two-Center Integrals Useful in Calculations on Molecular Structure, J. Chem. Phys., 19, 1445 (1951).
+ Watson, J. and Crick, F., "Molecular Structure of Nucleic Acids" Nature, April 25, 1953, p 737–8
+ W. J. Hehre, W. A. Lathan, R. Ditchfield, M. D. Newton, and J. A. Pople, Gaussian 70 (Quantum Chemistry Program Exchange, Program No. 237, 1970).
+ Jean-Louis Hérisson, Par; Chauvin, Yves (1971-02-09). "Catalyse de transformation des oléfines par les complexes du tungstène. II. Télomérisation des oléfines cycliques en présence d'oléfines acycliques". Die Makromolekulare Chemie. 141 (1): 161–176. doi:10.1002/macp.1971.021410112. ISSN 0025-116X.
+ Katsuki, Tsutomu (1980). "The first practical method for asymmetric epoxidation". Journal of the American Chemical Society. 102 (18): 5974–5976. doi:10.1021/ja00538a077.
+ Hill, J. G.; Sharpless, K. B.; Exon, C. M.; Regenye, R. Org. Synth., Coll. Vol. 7, p.461 (1990); Vol. 63, p.66 (1985). (Article)
+ Jacobsen, Eric N. (1988). "Asymmetric dihydroxylation via ligand-accelerated catalysis". Journal of the American Chemical Society. 110 (6): 1968–1970. doi:10.1021/ja00214a053.
+ Kolb, Hartmuth C. (1994). "Catalytic Asymmetric Dihydroxylation". Chemical Reviews. 94 (8): 2483–2547. doi:10.1021/cr00032a009.
+ Gonzalez, J.; Aurigemma, C.; Truesdale, L. Org. Synth., Coll. Vol. 10, p.603 (2004); Vol. 79, p.93 (2002). Article
+ Sharpless, K. Barry (1975). "New reaction. Stereospecific vicinal oxyamination of olefins by alkyl imido osmium compounds". Journal of the American Chemical Society. 97 (8): 2305–2307. doi:10.1021/ja00841a071.
+ Herranz, Eugenio (1978). "Osmium-catalyzed vicinal oxyamination of olefins by N-chloro-N-argentocarbamates". Journal of the American Chemical Society. 100 (11): 3596–3598. doi:10.1021/ja00479a051.
+ Herranz, E.; Sharpless, K. B. Org. Synth., Coll. Vol. 7, p.375 (1990); Vol. 61, p.85 (1983). Article
+ "The Nobel Prize in Chemistry 1996". Nobelprize.org. The Nobel Foundation. Retrieved 2007-02-28.
+ "Benjamin Franklin Medal awarded to Dr. Sumio Iijima, Director of the Research Center for Advanced Carbon Materials, AIST". National Institute of Advanced Industrial Science and Technology. 2002. Archived from the original on 2007-04-04. Retrieved 2007-03-27.
+ Borman, Stu (21 February 1994). "Total Synthesis of Anticancer Agent Taxol Achieved by Two Different Routes". Chemical & Engineering News. Vol. 72, no. 8. pp. 32–34. doi:10.1021/cen-v072n008.p032.
+ Blakeslee, Sandra (15 February 1994). "Race to Synthesize Cancer Drug Molecule Has Photo Finish". The New York Times. Retrieved 22 August 2013.
+ First total synthesis of taxol 1. Functionalization of the B ring Robert A. Holton, Carmen Somoza, Hyeong Baik Kim, Feng Liang, Ronald J. Biediger, P. Douglas Boatman, Mitsuru Shindo, Chase C. Smith, Soekchan Kim, et al.; J. Am. Chem. Soc.; 1994; 116(4); 1597–1598. DOI Abstract
+ First total synthesis of taxol. 2. Completion of the C and D rings Robert A. Holton, Hyeong Baik Kim, Carmen Somoza, Feng Liang, Ronald J. Biediger, P. Douglas Boatman, Mitsuru Shindo, Chase C. Smith, Soekchan Kim, and et al. J. Am. Chem. Soc.; 1994; 116(4) pp 1599–1600 DOI Abstract
+ A synthesis of taxusin Robert A. Holton, R. R. Juo, Hyeong B. Kim, Andrew D. Williams, Shinya Harusawa, Richard E. Lowenthal, Sadamu Yogai J. Am. Chem. Soc.; 1988; 110(19); 6558–6560. Abstract
+ "Cornell and Wieman Share 2001 Nobel Prize in Physics". NIST News Release. National Institute of Standards and Technology. 2001. Archived from the original on 2007-06-10. Retrieved 2007-03-27.
+ Blinder, S. M.; House, James E. (2018). Mathematical Physics in Theoretical Chemistry. Elsevier. pp. xiii. ISBN 978-0-12-813701-7.
+References
+Selected classic papers from the history of chemistry
+Biographies of Chemists
+Eric R. Scerri, The Periodic Table: Its Story and Its Significance, Oxford University Press, 2006.
+Further reading
+Jensen, William B (2006). "Textbooks and the future of the history of chemistry as an academic discipline". Bulletin for the History of Chemistry. 3: 1–8.
+Rampling, Jennifer M (2017). "The Future of the History of Chemistry". Ambix. 64 (4): 295–300. doi:10.1080/00026980.2017.1434970. PMID 29448901.
+Servos, John W., Physical chemistry from Ostwald to Pauling : the making of a science in America, Princeton, N.J. : Princeton University Press, 1990. ISBN 0-691-08566-8
+Documentaries
+BBC (2010). Chemistry: A Volatile History.
+External links
+
+Wikiquote has quotations related to History of chemistry.
+
+Wikimedia Commons has media related to History of chemistry.
+ChemisLab – Chemists of the Past
+SHAC: Society for the History of Alchemy and Chemistry
+vte
+Alchemy (general)
+vte
+History of science
+vte
+Branches of chemistry
+Categories: History of chemistryHistory of scienceHistory of science by disciplineHistory of industries
+This page was last edited on 7 April 2023, at 17:04 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWikiToggle limited content width
